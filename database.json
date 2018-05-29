@@ -1,0 +1,10355 @@
+[
+  {
+    "id": "a68-protein",
+    "label": {
+      "en": "A68 protein"
+    },
+    "description": {
+      "en": "A68 protein"
+    },
+    "aliases": {
+      "en": [
+        "A68 protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "acad10",
+    "label": {
+      "en": "ACAD10"
+    },
+    "description": {
+      "en": "ACAD10"
+    },
+    "aliases": {
+      "en": [
+        "ACAD10"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "acot13",
+    "label": {
+      "en": "ACOT13"
+    },
+    "description": {
+      "en": "ACOT13"
+    },
+    "aliases": {
+      "en": [
+        "ACOT13"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "actg1",
+    "label": {
+      "en": "ACTG1"
+    },
+    "description": {
+      "en": "ACTG1"
+    },
+    "aliases": {
+      "en": [
+        "ACTG1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "actibind",
+    "label": {
+      "en": "Actibind"
+    },
+    "description": {
+      "en": "Actibind"
+    },
+    "aliases": {
+      "en": [
+        "Actibind"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "actin-nucleation-core",
+    "label": {
+      "en": "Actin nucleation core"
+    },
+    "description": {
+      "en": "Actin nucleation core"
+    },
+    "aliases": {
+      "en": [
+        "Actin nucleation core"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "actin-binding-protein",
+    "label": {
+      "en": "Actin-binding protein"
+    },
+    "description": {
+      "en": "Actin-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Actin-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "actinin",
+    "label": {
+      "en": "Actinin"
+    },
+    "description": {
+      "en": "Actinin"
+    },
+    "aliases": {
+      "en": [
+        "Actinin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "acyl-carrier-protein",
+    "label": {
+      "en": "Acyl carrier protein"
+    },
+    "description": {
+      "en": "Acyl carrier protein"
+    },
+    "aliases": {
+      "en": [
+        "Acyl carrier protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "acylation-stimulating-protein",
+    "label": {
+      "en": "Acylation stimulating protein"
+    },
+    "description": {
+      "en": "Acylation stimulating protein"
+    },
+    "aliases": {
+      "en": [
+        "Acylation stimulating protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "addressin",
+    "label": {
+      "en": "Addressin"
+    },
+    "description": {
+      "en": "Addressin"
+    },
+    "aliases": {
+      "en": [
+        "Addressin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "adenovirus-e1b-protein",
+    "label": {
+      "en": "Adenovirus E1B protein"
+    },
+    "description": {
+      "en": "Adenovirus E1B protein"
+    },
+    "aliases": {
+      "en": [
+        "Adenovirus E1B protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "adipocyte-protein-2",
+    "label": {
+      "en": "Adipocyte protein 2"
+    },
+    "description": {
+      "en": "Adipocyte protein 2"
+    },
+    "aliases": {
+      "en": [
+        "Adipocyte protein 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "adiponectin",
+    "label": {
+      "en": "Adiponectin"
+    },
+    "description": {
+      "en": "Adiponectin"
+    },
+    "aliases": {
+      "en": [
+        "Adiponectin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "adrm1",
+    "label": {
+      "en": "ADRM1"
+    },
+    "description": {
+      "en": "ADRM1"
+    },
+    "aliases": {
+      "en": [
+        "ADRM1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aequorin",
+    "label": {
+      "en": "Aequorin"
+    },
+    "description": {
+      "en": "Aequorin"
+    },
+    "aliases": {
+      "en": [
+        "Aequorin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aif1",
+    "label": {
+      "en": "AIF1"
+    },
+    "description": {
+      "en": "AIF1"
+    },
+    "aliases": {
+      "en": [
+        "AIF1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aifm1",
+    "label": {
+      "en": "AIFM1"
+    },
+    "description": {
+      "en": "AIFM1"
+    },
+    "aliases": {
+      "en": [
+        "AIFM1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aifm2",
+    "label": {
+      "en": "AIFM2"
+    },
+    "description": {
+      "en": "AIFM2"
+    },
+    "aliases": {
+      "en": [
+        "AIFM2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "akap",
+    "label": {
+      "en": "AKAP"
+    },
+    "description": {
+      "en": "AKAP"
+    },
+    "aliases": {
+      "en": [
+        "AKAP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aleurone",
+    "label": {
+      "en": "Aleurone"
+    },
+    "description": {
+      "en": "Aleurone"
+    },
+    "aliases": {
+      "en": [
+        "Aleurone"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "alkb",
+    "label": {
+      "en": "AlkB"
+    },
+    "description": {
+      "en": "AlkB"
+    },
+    "aliases": {
+      "en": [
+        "AlkB"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "allergoid",
+    "label": {
+      "en": "Allergoid"
+    },
+    "description": {
+      "en": "Allergoid"
+    },
+    "aliases": {
+      "en": [
+        "Allergoid"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "allosteric-regulation",
+    "label": {
+      "en": "Allosteric regulation"
+    },
+    "description": {
+      "en": "Allosteric regulation"
+    },
+    "aliases": {
+      "en": [
+        "Allosteric regulation"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "alpha-1-microglobulin",
+    "label": {
+      "en": "Alpha-1-microglobulin"
+    },
+    "description": {
+      "en": "Alpha-1-microglobulin"
+    },
+    "aliases": {
+      "en": [
+        "Alpha-1-microglobulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "alpha-lactalbumin",
+    "label": {
+      "en": "Alpha-lactalbumin"
+    },
+    "description": {
+      "en": "Alpha-lactalbumin"
+    },
+    "aliases": {
+      "en": [
+        "Alpha-lactalbumin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "alternative-ribosome-rescue-factor-a",
+    "label": {
+      "en": "Alternative ribosome-rescue factor A"
+    },
+    "description": {
+      "en": "Alternative ribosome-rescue factor A"
+    },
+    "aliases": {
+      "en": [
+        "Alternative ribosome-rescue factor A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "alternative-ribosome-rescue-factor-b",
+    "label": {
+      "en": "Alternative ribosome-rescue factor B"
+    },
+    "description": {
+      "en": "Alternative ribosome-rescue factor B"
+    },
+    "aliases": {
+      "en": [
+        "Alternative ribosome-rescue factor B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "amicyanin",
+    "label": {
+      "en": "Amicyanin"
+    },
+    "description": {
+      "en": "Amicyanin"
+    },
+    "aliases": {
+      "en": [
+        "Amicyanin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "amphiphysin",
+    "label": {
+      "en": "Amphiphysin"
+    },
+    "description": {
+      "en": "Amphiphysin"
+    },
+    "aliases": {
+      "en": [
+        "Amphiphysin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "anaphase-promoting-complex",
+    "label": {
+      "en": "Anaphase-promoting complex"
+    },
+    "description": {
+      "en": "Anaphase-promoting complex"
+    },
+    "aliases": {
+      "en": [
+        "Anaphase-promoting complex"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ank1",
+    "label": {
+      "en": "ANK1"
+    },
+    "description": {
+      "en": "ANK1"
+    },
+    "aliases": {
+      "en": [
+        "ANK1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ankrd2",
+    "label": {
+      "en": "ANKRD2"
+    },
+    "description": {
+      "en": "ANKRD2"
+    },
+    "aliases": {
+      "en": [
+        "ANKRD2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "anosmin-1",
+    "label": {
+      "en": "Anosmin-1"
+    },
+    "description": {
+      "en": "Anosmin-1"
+    },
+    "aliases": {
+      "en": [
+        "Anosmin-1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ap1g1",
+    "label": {
+      "en": "AP1G1"
+    },
+    "description": {
+      "en": "AP1G1"
+    },
+    "aliases": {
+      "en": [
+        "AP1G1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ap4s1",
+    "label": {
+      "en": "AP4S1"
+    },
+    "description": {
+      "en": "AP4S1"
+    },
+    "aliases": {
+      "en": [
+        "AP4S1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apbb1",
+    "label": {
+      "en": "APBB1"
+    },
+    "description": {
+      "en": "APBB1"
+    },
+    "aliases": {
+      "en": [
+        "APBB1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apc-c-activator-protein-cdh1",
+    "label": {
+      "en": "APC/C activator protein CDH1"
+    },
+    "description": {
+      "en": "APC/C activator protein CDH1"
+    },
+    "aliases": {
+      "en": [
+        "APC/C activator protein CDH1",
+        "cdh1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apelin",
+    "label": {
+      "en": "Apelin"
+    },
+    "description": {
+      "en": "Apelin"
+    },
+    "aliases": {
+      "en": [
+        "Apelin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aph-1",
+    "label": {
+      "en": "APH-1"
+    },
+    "description": {
+      "en": "APH-1"
+    },
+    "aliases": {
+      "en": [
+        "APH-1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apo2.7",
+    "label": {
+      "en": "Apo2.7"
+    },
+    "description": {
+      "en": "Apo2.7"
+    },
+    "aliases": {
+      "en": [
+        "Apo2.7"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apolipoprotein-c",
+    "label": {
+      "en": "Apolipoprotein C"
+    },
+    "description": {
+      "en": "Apolipoprotein C"
+    },
+    "aliases": {
+      "en": [
+        "Apolipoprotein C"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apolipoprotein-c2",
+    "label": {
+      "en": "Apolipoprotein C2"
+    },
+    "description": {
+      "en": "Apolipoprotein C2"
+    },
+    "aliases": {
+      "en": [
+        "Apolipoprotein C2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "apolipoprotein-l1",
+    "label": {
+      "en": "Apolipoprotein L1"
+    },
+    "description": {
+      "en": "Apolipoprotein L1"
+    },
+    "aliases": {
+      "en": [
+        "Apolipoprotein L1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "aprotinin",
+    "label": {
+      "en": "Aprotinin"
+    },
+    "description": {
+      "en": "Aprotinin"
+    },
+    "aliases": {
+      "en": [
+        "Aprotinin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ara-h1",
+    "label": {
+      "en": "Ara h1"
+    },
+    "description": {
+      "en": "Ara h1"
+    },
+    "aliases": {
+      "en": [
+        "Ara h1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "arc",
+    "label": {
+      "en": "Arc"
+    },
+    "description": {
+      "en": "Arc"
+    },
+    "aliases": {
+      "en": [
+        "Arc"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "argos",
+    "label": {
+      "en": "Argos"
+    },
+    "description": {
+      "en": "Argos"
+    },
+    "aliases": {
+      "en": [
+        "Argos"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "arhgap31",
+    "label": {
+      "en": "ARHGAP31"
+    },
+    "description": {
+      "en": "ARHGAP31"
+    },
+    "aliases": {
+      "en": [
+        "ARHGAP31"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ataxia-telangiectasia-and-rad3-related",
+    "label": {
+      "en": "Ataxia telangiectasia and Rad3 related"
+    },
+    "description": {
+      "en": "Ataxia telangiectasia and Rad3 related"
+    },
+    "aliases": {
+      "en": [
+        "Ataxia telangiectasia and Rad3 related"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ataxia-telangiectasia-mutated",
+    "label": {
+      "en": "Ataxia telangiectasia mutated"
+    },
+    "description": {
+      "en": "Ataxia telangiectasia mutated"
+    },
+    "aliases": {
+      "en": [
+        "Ataxia telangiectasia mutated"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ataxin-1",
+    "label": {
+      "en": "Ataxin 1"
+    },
+    "description": {
+      "en": "Ataxin 1"
+    },
+    "aliases": {
+      "en": [
+        "Ataxin 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ataxin-3",
+    "label": {
+      "en": "Ataxin 3"
+    },
+    "description": {
+      "en": "Ataxin 3"
+    },
+    "aliases": {
+      "en": [
+        "Ataxin 3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ataxin-7",
+    "label": {
+      "en": "Ataxin 7"
+    },
+    "description": {
+      "en": "Ataxin 7"
+    },
+    "aliases": {
+      "en": [
+        "Ataxin 7"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "atg8",
+    "label": {
+      "en": "ATG8"
+    },
+    "description": {
+      "en": "ATG8"
+    },
+    "aliases": {
+      "en": [
+        "ATG8"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "atn1",
+    "label": {
+      "en": "ATN1"
+    },
+    "description": {
+      "en": "ATN1"
+    },
+    "aliases": {
+      "en": [
+        "ATN1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "atox1",
+    "label": {
+      "en": "ATOX1"
+    },
+    "description": {
+      "en": "ATOX1"
+    },
+    "aliases": {
+      "en": [
+        "ATOX1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "b-cell-activating-factor",
+    "label": {
+      "en": "B-cell activating factor"
+    },
+    "description": {
+      "en": "B-cell activating factor"
+    },
+    "aliases": {
+      "en": [
+        "B-cell activating factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "b-cell-linker",
+    "label": {
+      "en": "B-cell linker"
+    },
+    "description": {
+      "en": "B-cell linker"
+    },
+    "aliases": {
+      "en": [
+        "B-cell linker"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "baculoviral-iap-repeat-containing-protein-2",
+    "label": {
+      "en": "Baculoviral IAP repeat-containing protein 2"
+    },
+    "description": {
+      "en": "Baculoviral IAP repeat-containing protein 2"
+    },
+    "aliases": {
+      "en": [
+        "Baculoviral IAP repeat-containing protein 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bap1",
+    "label": {
+      "en": "BAP1"
+    },
+    "description": {
+      "en": "BAP1"
+    },
+    "aliases": {
+      "en": [
+        "BAP1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bard1",
+    "label": {
+      "en": "BARD1"
+    },
+    "description": {
+      "en": "BARD1"
+    },
+    "aliases": {
+      "en": [
+        "BARD1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "batf2",
+    "label": {
+      "en": "BATF2"
+    },
+    "description": {
+      "en": "BATF2"
+    },
+    "aliases": {
+      "en": [
+        "BATF2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bcar1",
+    "label": {
+      "en": "BCAR1"
+    },
+    "description": {
+      "en": "BCAR1"
+    },
+    "aliases": {
+      "en": [
+        "BCAR1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bcl-2-homologous-antagonist-killer",
+    "label": {
+      "en": "Bcl-2 homologous antagonist killer"
+    },
+    "description": {
+      "en": "Bcl-2 homologous antagonist killer"
+    },
+    "aliases": {
+      "en": [
+        "Bcl-2 homologous antagonist killer"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bcl-2-associated-death-promoter",
+    "label": {
+      "en": "Bcl-2-associated death promoter"
+    },
+    "description": {
+      "en": "Bcl-2-associated death promoter"
+    },
+    "aliases": {
+      "en": [
+        "Bcl-2-associated death promoter"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bcl-2-associated-x-protein",
+    "label": {
+      "en": "Bcl-2-associated X protein"
+    },
+    "description": {
+      "en": "Bcl-2-associated X protein"
+    },
+    "aliases": {
+      "en": [
+        "Bcl-2-associated X protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bcl2l13",
+    "label": {
+      "en": "BCL2L13"
+    },
+    "description": {
+      "en": "BCL2L13"
+    },
+    "aliases": {
+      "en": [
+        "BCL2L13"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bcl10",
+    "label": {
+      "en": "BCL10"
+    },
+    "description": {
+      "en": "BCL10"
+    },
+    "aliases": {
+      "en": [
+        "BCL10"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beetin",
+    "label": {
+      "en": "Beetin"
+    },
+    "description": {
+      "en": "Beetin"
+    },
+    "aliases": {
+      "en": [
+        "Beetin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-adrenergic-receptor-kinase",
+    "label": {
+      "en": "Beta adrenergic receptor kinase"
+    },
+    "description": {
+      "en": "Beta adrenergic receptor kinase"
+    },
+    "aliases": {
+      "en": [
+        "Beta adrenergic receptor kinase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-bend-ribbon",
+    "label": {
+      "en": "Beta bend ribbon"
+    },
+    "description": {
+      "en": "Beta bend ribbon"
+    },
+    "aliases": {
+      "en": [
+        "Beta bend ribbon"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-globulins",
+    "label": {
+      "en": "Beta globulins"
+    },
+    "description": {
+      "en": "Beta globulins"
+    },
+    "aliases": {
+      "en": [
+        "Beta globulins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-2-microglobulin",
+    "label": {
+      "en": "Beta-2 microglobulin"
+    },
+    "description": {
+      "en": "Beta-2 microglobulin"
+    },
+    "aliases": {
+      "en": [
+        "Beta-2 microglobulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-catenin",
+    "label": {
+      "en": "Beta-catenin"
+    },
+    "description": {
+      "en": "Beta-catenin"
+    },
+    "aliases": {
+      "en": [
+        "Beta-catenin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-lactoglobulin",
+    "label": {
+      "en": "Beta-lactoglobulin"
+    },
+    "description": {
+      "en": "Beta-lactoglobulin"
+    },
+    "aliases": {
+      "en": [
+        "Beta-lactoglobulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "beta-thromboglobulin",
+    "label": {
+      "en": "Beta-thromboglobulin"
+    },
+    "description": {
+      "en": "Beta-thromboglobulin"
+    },
+    "aliases": {
+      "en": [
+        "Beta-thromboglobulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bh3-interacting-domain-death-agonist",
+    "label": {
+      "en": "BH3 interacting-domain death agonist"
+    },
+    "description": {
+      "en": "BH3 interacting-domain death agonist"
+    },
+    "aliases": {
+      "en": [
+        "BH3 interacting-domain death agonist"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bh11960",
+    "label": {
+      "en": "BH11960"
+    },
+    "description": {
+      "en": "BH11960"
+    },
+    "aliases": {
+      "en": [
+        "BH11960"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bincard",
+    "label": {
+      "en": "BinCARD"
+    },
+    "description": {
+      "en": "BinCARD"
+    },
+    "aliases": {
+      "en": [
+        "BinCARD"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "biopax",
+    "label": {
+      "en": "BioPAX"
+    },
+    "description": {
+      "en": "BioPAX"
+    },
+    "aliases": {
+      "en": [
+        "BioPAX"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "biotin-carboxyl-carrier-protein",
+    "label": {
+      "en": "Biotin carboxyl carrier protein"
+    },
+    "description": {
+      "en": "Biotin carboxyl carrier protein"
+    },
+    "aliases": {
+      "en": [
+        "Biotin carboxyl carrier protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bone-morphogenetic-protein",
+    "label": {
+      "en": "Bone morphogenetic protein"
+    },
+    "description": {
+      "en": "Bone morphogenetic protein"
+    },
+    "aliases": {
+      "en": [
+        "Bone morphogenetic protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bovine-serum-albumin",
+    "label": {
+      "en": "Bovine serum albumin"
+    },
+    "description": {
+      "en": "Bovine serum albumin"
+    },
+    "aliases": {
+      "en": [
+        "Bovine serum albumin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bovine-submaxillary-mucin-coatings",
+    "label": {
+      "en": "Bovine submaxillary mucin coatings"
+    },
+    "description": {
+      "en": "Bovine submaxillary mucin coatings"
+    },
+    "aliases": {
+      "en": [
+        "Bovine submaxillary mucin coatings"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "branchpoint-binding-protein",
+    "label": {
+      "en": "Branchpoint Binding Protein"
+    },
+    "description": {
+      "en": "Branchpoint Binding Protein"
+    },
+    "aliases": {
+      "en": [
+        "Branchpoint Binding Protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "brazzein",
+    "label": {
+      "en": "Brazzein"
+    },
+    "description": {
+      "en": "Brazzein"
+    },
+    "aliases": {
+      "en": [
+        "Brazzein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "brd4",
+    "label": {
+      "en": "BRD4"
+    },
+    "description": {
+      "en": "BRD4"
+    },
+    "aliases": {
+      "en": [
+        "BRD4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "bub3",
+    "label": {
+      "en": "BUB3"
+    },
+    "description": {
+      "en": "BUB3"
+    },
+    "aliases": {
+      "en": [
+        "BUB3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cactin",
+    "label": {
+      "en": "Cactin"
+    },
+    "description": {
+      "en": "Cactin"
+    },
+    "aliases": {
+      "en": [
+        "Cactin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calbindin",
+    "label": {
+      "en": "Calbindin"
+    },
+    "description": {
+      "en": "Calbindin"
+    },
+    "aliases": {
+      "en": [
+        "Calbindin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calcium-caseinate",
+    "label": {
+      "en": "Calcium caseinate"
+    },
+    "description": {
+      "en": "Calcium caseinate"
+    },
+    "aliases": {
+      "en": [
+        "Calcium caseinate"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calcium-binding-protein",
+    "label": {
+      "en": "Calcium-binding protein"
+    },
+    "description": {
+      "en": "Calcium-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Calcium-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calcium-binding-protein-1",
+    "label": {
+      "en": "Calcium-binding protein 1"
+    },
+    "description": {
+      "en": "Calcium-binding protein 1"
+    },
+    "aliases": {
+      "en": [
+        "Calcium-binding protein 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "caldesmon",
+    "label": {
+      "en": "Caldesmon"
+    },
+    "description": {
+      "en": "Caldesmon"
+    },
+    "aliases": {
+      "en": [
+        "Caldesmon"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calexcitin",
+    "label": {
+      "en": "Calexcitin"
+    },
+    "description": {
+      "en": "Calexcitin"
+    },
+    "aliases": {
+      "en": [
+        "Calexcitin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calgranulin",
+    "label": {
+      "en": "Calgranulin",
+      "fr": "Calgranuline"
+    },
+    "description": {
+      "en": "Calgranulin",
+      "fr": "Calgranuline"
+    },
+    "aliases": {
+      "en": [
+        "calgranulin",
+        "calgranulins"
+      ],
+      "fr": [
+        "calgranuline",
+        "calgranulines"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calgranulin-a",
+    "label": {
+      "en": "Calgranulin A",
+      "fr": "Calgranuline A"
+    },
+    "description": {
+      "en": "S100 calcium-binding protein A8 (S100A8, Calgranulin A)",
+      "fr": "S100A8 (Calgranuline A)"
+    },
+    "aliases": {
+      "en": [
+        "S100 calcium-binding protein A8",
+        "S100 calcium binding protein A8",
+        "S100A8",
+        "calgranulin A",
+        "calgranulins A"
+      ],
+      "fr": [
+        "calgranuline A",
+        "calgranulines A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calgranulin-b",
+    "label": {
+      "en": "S100A9 (Calgranulin B)",
+      "fr": "S100A9 (Calgranuline B)"
+    },
+    "description": {
+      "en": "S100 calcium-binding protein A9 (S100A9, Calgranulin B)",
+      "fr": "S100A9 (Calgranuline B)"
+    },
+    "aliases": {
+      "en": [
+        "calgranulin B",
+        "calgranulins B",
+        "S100 calcium-binding protein A9",
+        "S100A9",
+        "migration inhibitory factor-related protein 14",
+        "migration inhibitory factor related protein 14",
+        "MRP14"
+      ],
+      "fr": [
+        "calgranuline B",
+        "calgranulines B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calprotectin",
+    "label": {
+      "en": "Calprotectin",
+      "fr": "Calprotectin"
+    },
+    "description": {
+      "en": "Calprotectin",
+      "fr": "Calprotectine"
+    },
+    "aliases": {
+      "en": [
+        "calprotectin",
+        "calprotectins"
+      ],
+      "fr": [
+        "calprotectine",
+        "calprotectines"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calmodulin",
+    "label": {
+      "en": "Calmodulin"
+    },
+    "description": {
+      "en": "Calmodulin"
+    },
+    "aliases": {
+      "en": [
+        "Calmodulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calmodulin-in-target-binding-and-recognition",
+    "label": {
+      "en": "Calmodulin in Target Binding and Recognition"
+    },
+    "description": {
+      "en": "Calmodulin in Target Binding and Recognition"
+    },
+    "aliases": {
+      "en": [
+        "Calmodulin in Target Binding and Recognition"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calmodulin-binding-proteins",
+    "label": {
+      "en": "Calmodulin-binding proteins"
+    },
+    "description": {
+      "en": "Calmodulin-binding proteins"
+    },
+    "aliases": {
+      "en": [
+        "Calmodulin-binding proteins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calponin",
+    "label": {
+      "en": "Calponin"
+    },
+    "description": {
+      "en": "Calponin"
+    },
+    "aliases": {
+      "en": [
+        "Calponin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calponin-1",
+    "label": {
+      "en": "Calponin 1"
+    },
+    "description": {
+      "en": "Calponin 1"
+    },
+    "aliases": {
+      "en": [
+        "Calponin 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calponin-2",
+    "label": {
+      "en": "Calponin 2"
+    },
+    "description": {
+      "en": "Calponin 2"
+    },
+    "aliases": {
+      "en": [
+        "Calponin 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calponin-3-acidic",
+    "label": {
+      "en": "Calponin 3, acidic"
+    },
+    "description": {
+      "en": "Calponin 3, acidic"
+    },
+    "aliases": {
+      "en": [
+        "Calponin 3, acidic",
+        "Calponin 3. acidic"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calreticulin",
+    "label": {
+      "en": "Calreticulin"
+    },
+    "description": {
+      "en": "Calreticulin"
+    },
+    "aliases": {
+      "en": [
+        "Calreticulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "calsyntenin",
+    "label": {
+      "en": "Calsyntenin"
+    },
+    "description": {
+      "en": "Calsyntenin"
+    },
+    "aliases": {
+      "en": [
+        "Calsyntenin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "can-f-1",
+    "label": {
+      "en": "Can f 1"
+    },
+    "description": {
+      "en": "Can f 1"
+    },
+    "aliases": {
+      "en": [
+        "Can f 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cancer-testis-antigen-family-45-member-a5",
+    "label": {
+      "en": "Cancer/testis antigen family 45 member a5"
+    },
+    "description": {
+      "en": "Cancer/testis antigen family 45 member a5"
+    },
+    "aliases": {
+      "en": [
+        "family 45 member a5",
+        "testis antigen family 45 member a5",
+        "cancer/testis antigen family 45 member a5"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "capza2",
+    "label": {
+      "en": "CAPZA2"
+    },
+    "description": {
+      "en": "CAPZA2"
+    },
+    "aliases": {
+      "en": [
+        "CAPZA2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "carboxypeptidase",
+    "label": {
+      "en": "Carboxypeptidase"
+    },
+    "description": {
+      "en": "Carboxypeptidase"
+    },
+    "aliases": {
+      "en": [
+        "Carboxypeptidase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "carboxypeptidase-a",
+    "label": {
+      "en": "Carboxypeptidase A"
+    },
+    "description": {
+      "en": "Carboxypeptidase A"
+    },
+    "aliases": {
+      "en": [
+        "Carboxypeptidase A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "carboxypeptidase-a6",
+    "label": {
+      "en": "Carboxypeptidase A6"
+    },
+    "description": {
+      "en": "Carboxypeptidase A6"
+    },
+    "aliases": {
+      "en": [
+        "Carboxypeptidase A6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "carboxypeptidase-e",
+    "label": {
+      "en": "Carboxypeptidase E"
+    },
+    "description": {
+      "en": "Carboxypeptidase E"
+    },
+    "aliases": {
+      "en": [
+        "Carboxypeptidase E"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "card9",
+    "label": {
+      "en": "CARD9"
+    },
+    "description": {
+      "en": "CARD9"
+    },
+    "aliases": {
+      "en": [
+        "CARD9"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "card11",
+    "label": {
+      "en": "CARD11"
+    },
+    "description": {
+      "en": "CARD11"
+    },
+    "aliases": {
+      "en": [
+        "CARD11"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "casein",
+    "label": {
+      "en": "Casein",
+      "fr": "Caséine"
+    },
+    "description": {
+      "en": "Casein",
+      "fr": "Caséine"
+    },
+    "aliases": {
+      "en": [
+        "casein",
+        "caseins"
+      ],
+      "fr": [
+        "caséine",
+        "caséines",
+        "caseine",
+        "caseines"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "casomorphin",
+    "label": {
+      "en": "Casomorphin"
+    },
+    "description": {
+      "en": "Casomorphin"
+    },
+    "aliases": {
+      "en": [
+        "Casomorphin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cass4",
+    "label": {
+      "en": "CASS4"
+    },
+    "description": {
+      "en": "CASS4"
+    },
+    "aliases": {
+      "en": [
+        "CASS4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cathepsin-c",
+    "label": {
+      "en": "Cathepsin C"
+    },
+    "description": {
+      "en": "Cathepsin C"
+    },
+    "aliases": {
+      "en": [
+        "Cathepsin C"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ccdc113",
+    "label": {
+      "en": "CCDC113"
+    },
+    "description": {
+      "en": "CCDC113"
+    },
+    "aliases": {
+      "en": [
+        "CCDC113"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ccdc138",
+    "label": {
+      "en": "CCDC138"
+    },
+    "description": {
+      "en": "CCDC138"
+    },
+    "aliases": {
+      "en": [
+        "CCDC138"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ccdc180",
+    "label": {
+      "en": "CCDC180"
+    },
+    "description": {
+      "en": "CCDC180"
+    },
+    "aliases": {
+      "en": [
+        "CCDC180"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "catabolite-control-protein-a",
+    "label": {
+      "en": "Catabolite Control Protein A"
+    },
+    "description": {
+      "en": "Catabolite Control Protein A"
+    },
+    "aliases": {
+      "en": [
+        "Catabolite Control Protein A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cdc6",
+    "label": {
+      "en": "Cdc6"
+    },
+    "description": {
+      "en": "Cdc6"
+    },
+    "aliases": {
+      "en": [
+        "Cdc6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cell-division-control-protein-4",
+    "label": {
+      "en": "Cell division control protein 4"
+    },
+    "description": {
+      "en": "Cell division control protein 4"
+    },
+    "aliases": {
+      "en": [
+        "Cell division control protein 4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "centaurin,-alpha-1",
+    "label": {
+      "en": "Centaurin, alpha 1"
+    },
+    "description": {
+      "en": "Centaurin, alpha 1"
+    },
+    "aliases": {
+      "en": [
+        "Centaurin alpha 1",
+        "Centaurin, alpha 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chaperonin",
+    "label": {
+      "en": "Chaperonin"
+    },
+    "description": {
+      "en": "Chaperonin"
+    },
+    "aliases": {
+      "en": [
+        "Chaperonin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chemerin",
+    "label": {
+      "en": "Chemerin"
+    },
+    "description": {
+      "en": "Chemerin"
+    },
+    "aliases": {
+      "en": [
+        "Chemerin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chimerin",
+    "label": {
+      "en": "Chimerin"
+    },
+    "description": {
+      "en": "Chimerin"
+    },
+    "aliases": {
+      "en": [
+        "Chimerin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chimerin-1",
+    "label": {
+      "en": "Chimerin 1"
+    },
+    "description": {
+      "en": "Chimerin 1"
+    },
+    "aliases": {
+      "en": [
+        "Chimerin 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chlorotoxin",
+    "label": {
+      "en": "Chlorotoxin"
+    },
+    "description": {
+      "en": "Chlorotoxin"
+    },
+    "aliases": {
+      "en": [
+        "Chlorotoxin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chondrin",
+    "label": {
+      "en": "Chondrin"
+    },
+    "description": {
+      "en": "Chondrin"
+    },
+    "aliases": {
+      "en": [
+        "Chondrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chordin",
+    "label": {
+      "en": "Chordin"
+    },
+    "description": {
+      "en": "Chordin"
+    },
+    "aliases": {
+      "en": [
+        "Chordin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chromogranin-a",
+    "label": {
+      "en": "Chromogranin A"
+    },
+    "description": {
+      "en": "Chromogranin A"
+    },
+    "aliases": {
+      "en": [
+        "Chromogranin A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "chromoprotein",
+    "label": {
+      "en": "Chromoprotein"
+    },
+    "description": {
+      "en": "Chromoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Chromoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ci-protein",
+    "label": {
+      "en": "Ci protein"
+    },
+    "description": {
+      "en": "Ci protein"
+    },
+    "aliases": {
+      "en": [
+        "Ci protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "class-iii-β-tubulin",
+    "label": {
+      "en": "Class III β-tubulin"
+    },
+    "description": {
+      "en": "Class III β-tubulin"
+    },
+    "aliases": {
+      "en": [
+        "Class III β-tubulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "clathrin",
+    "label": {
+      "en": "Clathrin"
+    },
+    "description": {
+      "en": "Clathrin"
+    },
+    "aliases": {
+      "en": [
+        "Clathrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cln3",
+    "label": {
+      "en": "Cln3"
+    },
+    "description": {
+      "en": "Cln3"
+    },
+    "aliases": {
+      "en": [
+        "Cln3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "clusterin",
+    "label": {
+      "en": "Clusterin"
+    },
+    "description": {
+      "en": "Clusterin"
+    },
+    "aliases": {
+      "en": [
+        "Clusterin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cnnm2",
+    "label": {
+      "en": "CNNM2"
+    },
+    "description": {
+      "en": "CNNM2"
+    },
+    "aliases": {
+      "en": [
+        "CNNM2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "coatomer",
+    "label": {
+      "en": "Coatomer"
+    },
+    "description": {
+      "en": "Coatomer"
+    },
+    "aliases": {
+      "en": [
+        "Coatomer"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cohesin",
+    "label": {
+      "en": "Cohesin"
+    },
+    "description": {
+      "en": "Cohesin"
+    },
+    "aliases": {
+      "en": [
+        "Cohesin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "coiled-coil-domain-containing-37",
+    "label": {
+      "en": "Coiled-coil domain-containing 37"
+    },
+    "description": {
+      "en": "Coiled-coil domain-containing 37"
+    },
+    "aliases": {
+      "en": [
+        "Coiled-coil domain-containing 37"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "collectin-of-43-kda",
+    "label": {
+      "en": "Collectin of 43 kDa"
+    },
+    "description": {
+      "en": "Collectin of 43 kDa"
+    },
+    "aliases": {
+      "en": [
+        "Collectin of 43 kDa"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "collectin-of-46-kda",
+    "label": {
+      "en": "Collectin of 46 kDa"
+    },
+    "description": {
+      "en": "Collectin of 46 kDa"
+    },
+    "aliases": {
+      "en": [
+        "Collectin of 46 kDa"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "compendium-of-protein-lysine-acetylation",
+    "label": {
+      "en": "Compendium of protein lysine acetylation"
+    },
+    "description": {
+      "en": "Compendium of protein lysine acetylation"
+    },
+    "aliases": {
+      "en": [
+        "Compendium of protein lysine acetylation"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "complexin",
+    "label": {
+      "en": "Complexin"
+    },
+    "description": {
+      "en": "Complexin"
+    },
+    "aliases": {
+      "en": [
+        "Complexin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "concanavalin-a",
+    "label": {
+      "en": "Concanavalin A"
+    },
+    "description": {
+      "en": "Concanavalin A"
+    },
+    "aliases": {
+      "en": [
+        "Concanavalin A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "convulxin",
+    "label": {
+      "en": "Convulxin"
+    },
+    "description": {
+      "en": "Convulxin"
+    },
+    "aliases": {
+      "en": [
+        "Convulxin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cordon-bleu-protein",
+    "label": {
+      "en": "Cordon-bleu protein"
+    },
+    "description": {
+      "en": "Cordon-bleu protein"
+    },
+    "aliases": {
+      "en": [
+        "Cordon-bleu protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "coronin",
+    "label": {
+      "en": "Coronin"
+    },
+    "description": {
+      "en": "Coronin"
+    },
+    "aliases": {
+      "en": [
+        "Coronin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cox5a",
+    "label": {
+      "en": "COX5A"
+    },
+    "description": {
+      "en": "COX5A"
+    },
+    "aliases": {
+      "en": [
+        "COX5A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "crambin",
+    "label": {
+      "en": "Crambin"
+    },
+    "description": {
+      "en": "Crambin"
+    },
+    "aliases": {
+      "en": [
+        "Crambin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cry3bb1",
+    "label": {
+      "en": "Cry3Bb1"
+    },
+    "description": {
+      "en": "Cry3Bb1"
+    },
+    "aliases": {
+      "en": [
+        "Cry3Bb1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cryab",
+    "label": {
+      "en": "CRYAB"
+    },
+    "description": {
+      "en": "CRYAB"
+    },
+    "aliases": {
+      "en": [
+        "CRYAB"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "csm1",
+    "label": {
+      "en": "CSM1"
+    },
+    "description": {
+      "en": "CSM1"
+    },
+    "aliases": {
+      "en": [
+        "CSM1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cwp1",
+    "label": {
+      "en": "CWP1"
+    },
+    "description": {
+      "en": "CWP1"
+    },
+    "aliases": {
+      "en": [
+        "CWP1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cxorf49",
+    "label": {
+      "en": "CXorf49"
+    },
+    "description": {
+      "en": "CXorf49"
+    },
+    "aliases": {
+      "en": [
+        "CXorf49"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyanovirin-n",
+    "label": {
+      "en": "Cyanovirin-N"
+    },
+    "description": {
+      "en": "Cyanovirin-N"
+    },
+    "aliases": {
+      "en": [
+        "Cyanovirin-N"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin",
+    "label": {
+      "en": "Cyclin"
+    },
+    "description": {
+      "en": "Cyclin"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-a",
+    "label": {
+      "en": "Cyclin A"
+    },
+    "description": {
+      "en": "Cyclin A"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-b",
+    "label": {
+      "en": "Cyclin B"
+    },
+    "description": {
+      "en": "Cyclin B"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-d",
+    "label": {
+      "en": "Cyclin D"
+    },
+    "description": {
+      "en": "Cyclin D"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin D"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-e",
+    "label": {
+      "en": "Cyclin E"
+    },
+    "description": {
+      "en": "Cyclin E"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin E"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-e2",
+    "label": {
+      "en": "Cyclin E2"
+    },
+    "description": {
+      "en": "Cyclin E2"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin E2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-1",
+    "label": {
+      "en": "Cyclin-dependent kinase 1"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 1"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-2",
+    "label": {
+      "en": "Cyclin-dependent kinase 2"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 2"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-3",
+    "label": {
+      "en": "Cyclin-dependent kinase 3"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 3"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-4",
+    "label": {
+      "en": "Cyclin-dependent kinase 4"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 4"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-5",
+    "label": {
+      "en": "Cyclin-dependent kinase 5"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 5"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 5"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-6",
+    "label": {
+      "en": "Cyclin-dependent kinase 6"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 6"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-7",
+    "label": {
+      "en": "Cyclin-dependent kinase 7"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 7"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 7"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-8",
+    "label": {
+      "en": "Cyclin-dependent kinase 8"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 8"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 8"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cyclin-dependent-kinase-9",
+    "label": {
+      "en": "Cyclin-dependent kinase 9"
+    },
+    "description": {
+      "en": "Cyclin-dependent kinase 9"
+    },
+    "aliases": {
+      "en": [
+        "Cyclin-dependent kinase 9"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "cystatin-c",
+    "label": {
+      "en": "Cystatin C"
+    },
+    "description": {
+      "en": "Cystatin C"
+    },
+    "aliases": {
+      "en": [
+        "Cystatin C"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "d-amino-acid-oxidase-activator",
+    "label": {
+      "en": "D-amino acid oxidase activator"
+    },
+    "description": {
+      "en": "D-amino acid oxidase activator"
+    },
+    "aliases": {
+      "en": [
+        "D-amino acid oxidase activator"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "database-of-interacting-proteins",
+    "label": {
+      "en": "Database of Interacting Proteins"
+    },
+    "description": {
+      "en": "Database of Interacting Proteins"
+    },
+    "aliases": {
+      "en": [
+        "Database of Interacting Proteins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dentin-phosphoprotein",
+    "label": {
+      "en": "Dentin phosphoprotein"
+    },
+    "description": {
+      "en": "Dentin phosphoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Dentin phosphoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dentin-sialoprotein",
+    "label": {
+      "en": "Dentin sialoprotein"
+    },
+    "description": {
+      "en": "Dentin sialoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Dentin sialoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "deoxyribonucleoprotein",
+    "label": {
+      "en": "Deoxyribonucleoprotein"
+    },
+    "description": {
+      "en": "Deoxyribonucleoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Deoxyribonucleoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "desmocollin",
+    "label": {
+      "en": "Desmocollin"
+    },
+    "description": {
+      "en": "Desmocollin"
+    },
+    "aliases": {
+      "en": [
+        "Desmocollin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "desmoplakin",
+    "label": {
+      "en": "Desmoplakin"
+    },
+    "description": {
+      "en": "Desmoplakin"
+    },
+    "aliases": {
+      "en": [
+        "Desmoplakin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "desmosine",
+    "label": {
+      "en": "Desmosine"
+    },
+    "description": {
+      "en": "Desmosine"
+    },
+    "aliases": {
+      "en": [
+        "Desmosine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "diablo-homolog",
+    "label": {
+      "en": "Diablo homolog"
+    },
+    "description": {
+      "en": "Diablo homolog"
+    },
+    "aliases": {
+      "en": [
+        "Diablo homolog"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dirigent-protein",
+    "label": {
+      "en": "Dirigent protein"
+    },
+    "description": {
+      "en": "Dirigent protein"
+    },
+    "aliases": {
+      "en": [
+        "Dirigent protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "disc1",
+    "label": {
+      "en": "DISC1"
+    },
+    "description": {
+      "en": "DISC1"
+    },
+    "aliases": {
+      "en": [
+        "DISC1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "disintegrin",
+    "label": {
+      "en": "Disintegrin"
+    },
+    "description": {
+      "en": "Disintegrin"
+    },
+    "aliases": {
+      "en": [
+        "Disintegrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dna-replication-factor-cdt1",
+    "label": {
+      "en": "DNA replication factor CDT1"
+    },
+    "description": {
+      "en": "DNA replication factor CDT1"
+    },
+    "aliases": {
+      "en": [
+        "DNA replication factor CDT1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dockerin",
+    "label": {
+      "en": "Dockerin"
+    },
+    "description": {
+      "en": "Dockerin"
+    },
+    "aliases": {
+      "en": [
+        "Dockerin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dok-7",
+    "label": {
+      "en": "Dok-7"
+    },
+    "description": {
+      "en": "Dok-7"
+    },
+    "aliases": {
+      "en": [
+        "Dok-7"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "doublecortin",
+    "label": {
+      "en": "Doublecortin"
+    },
+    "description": {
+      "en": "Doublecortin"
+    },
+    "aliases": {
+      "en": [
+        "Doublecortin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dronpa",
+    "label": {
+      "en": "Dronpa"
+    },
+    "description": {
+      "en": "Dronpa"
+    },
+    "aliases": {
+      "en": [
+        "Dronpa"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dscam",
+    "label": {
+      "en": "DSCAM"
+    },
+    "description": {
+      "en": "DSCAM"
+    },
+    "aliases": {
+      "en": [
+        "DSCAM"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dullard-protein",
+    "label": {
+      "en": "Dullard protein"
+    },
+    "description": {
+      "en": "Dullard protein"
+    },
+    "aliases": {
+      "en": [
+        "Dullard protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "dysferlin",
+    "label": {
+      "en": "Dysferlin"
+    },
+    "description": {
+      "en": "Dysferlin"
+    },
+    "aliases": {
+      "en": [
+        "Dysferlin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ed1",
+    "label": {
+      "en": "ED1"
+    },
+    "description": {
+      "en": "ED1"
+    },
+    "aliases": {
+      "en": [
+        "ED1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "edestin",
+    "label": {
+      "en": "Edestin"
+    },
+    "description": {
+      "en": "Edestin"
+    },
+    "aliases": {
+      "en": [
+        "Edestin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "eif2b",
+    "label": {
+      "en": "EIF2B"
+    },
+    "description": {
+      "en": "EIF2B"
+    },
+    "aliases": {
+      "en": [
+        "EIF2B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "eif4g",
+    "label": {
+      "en": "EIF4G"
+    },
+    "description": {
+      "en": "EIF4G"
+    },
+    "aliases": {
+      "en": [
+        "EIF4G"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "electron-transferring-flavoprotein",
+    "label": {
+      "en": "Electron-transferring flavoprotein"
+    },
+    "description": {
+      "en": "Electron-transferring flavoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Electron-transferring flavoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "embryonal-fyn-associated-substrate",
+    "label": {
+      "en": "Embryonal fyn-associated substrate"
+    },
+    "description": {
+      "en": "Embryonal fyn-associated substrate"
+    },
+    "aliases": {
+      "en": [
+        "Embryonal fyn-associated substrate"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ena-vasp-homology-proteins",
+    "label": {
+      "en": "Ena/Vasp homology proteins"
+    },
+    "description": {
+      "en": "Ena/Vasp homology proteins"
+    },
+    "aliases": {
+      "en": [
+        "Ena/Vasp homology proteins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "enaptin",
+    "label": {
+      "en": "Enaptin"
+    },
+    "description": {
+      "en": "Enaptin"
+    },
+    "aliases": {
+      "en": [
+        "Enaptin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "eosinophil-peroxidase",
+    "label": {
+      "en": "Eosinophil peroxidase"
+    },
+    "description": {
+      "en": "Eosinophil peroxidase"
+    },
+    "aliases": {
+      "en": [
+        "Eosinophil peroxidase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ephrin",
+    "label": {
+      "en": "Ephrin"
+    },
+    "description": {
+      "en": "Ephrin"
+    },
+    "aliases": {
+      "en": [
+        "Ephrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "erb1",
+    "label": {
+      "en": "ERB1"
+    },
+    "description": {
+      "en": "ERB1"
+    },
+    "aliases": {
+      "en": [
+        "ERB1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "erbin",
+    "label": {
+      "en": "Erbin"
+    },
+    "description": {
+      "en": "Erbin"
+    },
+    "aliases": {
+      "en": [
+        "Erbin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "erp27",
+    "label": {
+      "en": "ERp27"
+    },
+    "description": {
+      "en": "ERp27"
+    },
+    "aliases": {
+      "en": [
+        "ERp27"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "erythrocruorin",
+    "label": {
+      "en": "Erythrocruorin"
+    },
+    "description": {
+      "en": "Erythrocruorin"
+    },
+    "aliases": {
+      "en": [
+        "Erythrocruorin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "eukaryotic-initiation-factor-4g",
+    "label": {
+      "en": "Eukaryotic initiation factor 4G"
+    },
+    "description": {
+      "en": "Eukaryotic initiation factor 4G"
+    },
+    "aliases": {
+      "en": [
+        "Eukaryotic initiation factor 4G"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "eukaryotic-release-factors-erf1",
+    "label": {
+      "en": "Eukaryotic release factors eRF1"
+    },
+    "description": {
+      "en": "Eukaryotic release factors eRF1"
+    },
+    "aliases": {
+      "en": [
+        "Eukaryotic release factors eRF1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "exoc3l2",
+    "label": {
+      "en": "EXOC3L2"
+    },
+    "description": {
+      "en": "EXOC3L2"
+    },
+    "aliases": {
+      "en": [
+        "EXOC3L2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "f-box-protein",
+    "label": {
+      "en": "F-box protein"
+    },
+    "description": {
+      "en": "F-box protein"
+    },
+    "aliases": {
+      "en": [
+        "F-box protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fadd",
+    "label": {
+      "en": "FADD"
+    },
+    "description": {
+      "en": "FADD"
+    },
+    "aliases": {
+      "en": [
+        "FADD"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fam63b",
+    "label": {
+      "en": "FAM63B"
+    },
+    "description": {
+      "en": "FAM63B"
+    },
+    "aliases": {
+      "en": [
+        "FAM63B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fasciculin",
+    "label": {
+      "en": "Fasciculin"
+    },
+    "description": {
+      "en": "Fasciculin"
+    },
+    "aliases": {
+      "en": [
+        "Fasciculin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fascin",
+    "label": {
+      "en": "Fascin"
+    },
+    "description": {
+      "en": "Fascin"
+    },
+    "aliases": {
+      "en": [
+        "Fascin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fbx15",
+    "label": {
+      "en": "Fbx15"
+    },
+    "description": {
+      "en": "Fbx15"
+    },
+    "aliases": {
+      "en": [
+        "Fbx15"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fcer1",
+    "label": {
+      "en": "FCER1"
+    },
+    "description": {
+      "en": "FCER1"
+    },
+    "aliases": {
+      "en": [
+        "FCER1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fdc-sp",
+    "label": {
+      "en": "FDC-SP"
+    },
+    "description": {
+      "en": "FDC-SP"
+    },
+    "aliases": {
+      "en": [
+        "FDC-SP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fibrocystin",
+    "label": {
+      "en": "Fibrocystin"
+    },
+    "description": {
+      "en": "Fibrocystin"
+    },
+    "aliases": {
+      "en": [
+        "Fibrocystin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fibroin",
+    "label": {
+      "en": "Fibroin"
+    },
+    "description": {
+      "en": "Fibroin"
+    },
+    "aliases": {
+      "en": [
+        "Fibroin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "fig4",
+    "label": {
+      "en": "Fig4"
+    },
+    "description": {
+      "en": "Fig4"
+    },
+    "aliases": {
+      "en": [
+        "Fig4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "filamin",
+    "label": {
+      "en": "Filamin"
+    },
+    "description": {
+      "en": "Filamin"
+    },
+    "aliases": {
+      "en": [
+        "Filamin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "flavodoxin",
+    "label": {
+      "en": "Flavodoxin"
+    },
+    "description": {
+      "en": "Flavodoxin"
+    },
+    "aliases": {
+      "en": [
+        "Flavodoxin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "flavoprotein",
+    "label": {
+      "en": "Flavoprotein"
+    },
+    "description": {
+      "en": "Flavoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Flavoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "foldase",
+    "label": {
+      "en": "Foldase"
+    },
+    "description": {
+      "en": "Foldase"
+    },
+    "aliases": {
+      "en": [
+        "Foldase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "follistatin",
+    "label": {
+      "en": "Follistatin"
+    },
+    "description": {
+      "en": "Follistatin"
+    },
+    "aliases": {
+      "en": [
+        "Follistatin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "formins",
+    "label": {
+      "en": "Formins"
+    },
+    "description": {
+      "en": "Formins"
+    },
+    "aliases": {
+      "en": [
+        "Formins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "formylation",
+    "label": {
+      "en": "Formylation"
+    },
+    "description": {
+      "en": "Formylation"
+    },
+    "aliases": {
+      "en": [
+        "Formylation"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "frataxin",
+    "label": {
+      "en": "Frataxin"
+    },
+    "description": {
+      "en": "Frataxin"
+    },
+    "aliases": {
+      "en": [
+        "Frataxin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gab2",
+    "label": {
+      "en": "GAB2"
+    },
+    "description": {
+      "en": "GAB2"
+    },
+    "aliases": {
+      "en": [
+        "GAB2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gak",
+    "label": {
+      "en": "GAK"
+    },
+    "description": {
+      "en": "GAK"
+    },
+    "aliases": {
+      "en": [
+        "GAK"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gamma-globulin",
+    "label": {
+      "en": "Gamma globulin"
+    },
+    "description": {
+      "en": "Gamma globulin"
+    },
+    "aliases": {
+      "en": [
+        "Gamma globulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gankyrin",
+    "label": {
+      "en": "Gankyrin"
+    },
+    "description": {
+      "en": "Gankyrin"
+    },
+    "aliases": {
+      "en": [
+        "Gankyrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gcamp",
+    "label": {
+      "en": "GCaMP"
+    },
+    "description": {
+      "en": "GCaMP"
+    },
+    "aliases": {
+      "en": [
+        "GCaMP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gcn2",
+    "label": {
+      "en": "Gcn2"
+    },
+    "description": {
+      "en": "Gcn2"
+    },
+    "aliases": {
+      "en": [
+        "Gcn2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gelsolin",
+    "label": {
+      "en": "Gelsolin"
+    },
+    "description": {
+      "en": "Gelsolin"
+    },
+    "aliases": {
+      "en": [
+        "Gelsolin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "geminin",
+    "label": {
+      "en": "Geminin"
+    },
+    "description": {
+      "en": "Geminin"
+    },
+    "aliases": {
+      "en": [
+        "Geminin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gfrα",
+    "label": {
+      "en": "GFRα"
+    },
+    "description": {
+      "en": "GFRα"
+    },
+    "aliases": {
+      "en": [
+        "GFRα"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gli1",
+    "label": {
+      "en": "GLI1"
+    },
+    "description": {
+      "en": "GLI1"
+    },
+    "aliases": {
+      "en": [
+        "GLI1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "glial-cell-line-derived-neurotrophic-factor",
+    "label": {
+      "en": "Glial cell line-derived neurotrophic factor"
+    },
+    "description": {
+      "en": "Glial cell line-derived neurotrophic factor"
+    },
+    "aliases": {
+      "en": [
+        "Glial cell line-derived neurotrophic factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "glial-fibrillary-acidic-protein",
+    "label": {
+      "en": "Glial fibrillary acidic protein"
+    },
+    "description": {
+      "en": "Glial fibrillary acidic protein"
+    },
+    "aliases": {
+      "en": [
+        "Glial fibrillary acidic protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "globular-protein",
+    "label": {
+      "en": "Globular protein"
+    },
+    "description": {
+      "en": "Globular protein"
+    },
+    "aliases": {
+      "en": [
+        "Globular protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "globulin",
+    "label": {
+      "en": "Globulin"
+    },
+    "description": {
+      "en": "Globulin"
+    },
+    "aliases": {
+      "en": [
+        "Globulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "glucokinase-regulatory-protein",
+    "label": {
+      "en": "Glucokinase regulatory protein"
+    },
+    "description": {
+      "en": "Glucokinase regulatory protein"
+    },
+    "aliases": {
+      "en": [
+        "Glucokinase regulatory protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "glucose-regulated-protein",
+    "label": {
+      "en": "Glucose-regulated protein"
+    },
+    "description": {
+      "en": "Glucose-regulated protein"
+    },
+    "aliases": {
+      "en": [
+        "Glucose-regulated protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "glycoprotein-ib",
+    "label": {
+      "en": "Glycoprotein Ib"
+    },
+    "description": {
+      "en": "Glycoprotein Ib"
+    },
+    "aliases": {
+      "en": [
+        "Glycoprotein Ib"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gorgonin",
+    "label": {
+      "en": "Gorgonin"
+    },
+    "description": {
+      "en": "Gorgonin"
+    },
+    "aliases": {
+      "en": [
+        "Gorgonin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "grb2",
+    "label": {
+      "en": "GRB2"
+    },
+    "description": {
+      "en": "GRB2"
+    },
+    "aliases": {
+      "en": [
+        "GRB2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "grb7",
+    "label": {
+      "en": "GRB7"
+    },
+    "description": {
+      "en": "GRB7"
+    },
+    "aliases": {
+      "en": [
+        "GRB7"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "griffithsin",
+    "label": {
+      "en": "Griffithsin"
+    },
+    "description": {
+      "en": "Griffithsin"
+    },
+    "aliases": {
+      "en": [
+        "Griffithsin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "growth-differentiation-factor",
+    "label": {
+      "en": "Growth differentiation factor"
+    },
+    "description": {
+      "en": "Growth differentiation factor"
+    },
+    "aliases": {
+      "en": [
+        "Growth differentiation factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gtp-binding-protein-regulators",
+    "label": {
+      "en": "GTP-binding protein regulators"
+    },
+    "description": {
+      "en": "GTP-binding protein regulators"
+    },
+    "aliases": {
+      "en": [
+        "GTP-binding protein regulators"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "gtpase-activating-protein",
+    "label": {
+      "en": "GTPase-activating protein"
+    },
+    "description": {
+      "en": "GTPase-activating protein"
+    },
+    "aliases": {
+      "en": [
+        "GTPase-activating protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "guanylate-cyclase-activator",
+    "label": {
+      "en": "Guanylate cyclase activator"
+    },
+    "description": {
+      "en": "Guanylate cyclase activator"
+    },
+    "aliases": {
+      "en": [
+        "Guanylate cyclase activator"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hemp-protein",
+    "label": {
+      "en": "Hemp protein"
+    },
+    "description": {
+      "en": "Hemp protein"
+    },
+    "aliases": {
+      "en": [
+        "Hemp protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "heteromer",
+    "label": {
+      "en": "Heteromer"
+    },
+    "description": {
+      "en": "Heteromer"
+    },
+    "aliases": {
+      "en": [
+        "Heteromer"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hfq-protein",
+    "label": {
+      "en": "Hfq protein"
+    },
+    "description": {
+      "en": "Hfq protein"
+    },
+    "aliases": {
+      "en": [
+        "Hfq protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hhv-infected-cell-polypeptide-0",
+    "label": {
+      "en": "HHV Infected Cell Polypeptide 0"
+    },
+    "description": {
+      "en": "HHV Infected Cell Polypeptide 0"
+    },
+    "aliases": {
+      "en": [
+        "HHV Infected Cell Polypeptide 0"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "high-protein-diet",
+    "label": {
+      "en": "High-protein diet"
+    },
+    "description": {
+      "en": "High-protein diet"
+    },
+    "aliases": {
+      "en": [
+        "High-protein diet"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hint2",
+    "label": {
+      "en": "HINT2"
+    },
+    "description": {
+      "en": "HINT2"
+    },
+    "aliases": {
+      "en": [
+        "HINT2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "histone",
+    "label": {
+      "en": "Histone"
+    },
+    "description": {
+      "en": "Histone"
+    },
+    "aliases": {
+      "en": [
+        "Histone"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "histone-h1",
+    "label": {
+      "en": "Histone H1"
+    },
+    "description": {
+      "en": "Histone H1"
+    },
+    "aliases": {
+      "en": [
+        "Histone H1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "histone-h2a",
+    "label": {
+      "en": "Histone H2A"
+    },
+    "description": {
+      "en": "Histone H2A"
+    },
+    "aliases": {
+      "en": [
+        "Histone H2A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "histone-h2b",
+    "label": {
+      "en": "Histone H2B"
+    },
+    "description": {
+      "en": "Histone H2B"
+    },
+    "aliases": {
+      "en": [
+        "Histone H2B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "histone-octamer",
+    "label": {
+      "en": "Histone octamer"
+    },
+    "description": {
+      "en": "Histone octamer"
+    },
+    "aliases": {
+      "en": [
+        "Histone octamer"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "histone-modifying-enzymes",
+    "label": {
+      "en": "Histone-modifying enzymes"
+    },
+    "description": {
+      "en": "Histone-modifying enzymes"
+    },
+    "aliases": {
+      "en": [
+        "Histone-modifying enzymes"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "holdase",
+    "label": {
+      "en": "Holdase"
+    },
+    "description": {
+      "en": "Holdase"
+    },
+    "aliases": {
+      "en": [
+        "Holdase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "holoprotein",
+    "label": {
+      "en": "Holoprotein"
+    },
+    "description": {
+      "en": "Holoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Holoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hop",
+    "label": {
+      "en": "Hop"
+    },
+    "description": {
+      "en": "Hop"
+    },
+    "aliases": {
+      "en": [
+        "Hop"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hopp–woods-scale",
+    "label": {
+      "en": "Hopp–Woods scale"
+    },
+    "description": {
+      "en": "Hopp–Woods scale"
+    },
+    "aliases": {
+      "en": [
+        "Hopp–Woods scale"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hp59",
+    "label": {
+      "en": "HP59"
+    },
+    "description": {
+      "en": "HP59"
+    },
+    "aliases": {
+      "en": [
+        "HP59"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "huntingtin-associated-protein-1",
+    "label": {
+      "en": "Huntingtin-associated protein 1"
+    },
+    "description": {
+      "en": "Huntingtin-associated protein 1"
+    },
+    "aliases": {
+      "en": [
+        "Huntingtin-associated protein 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hyalin",
+    "label": {
+      "en": "Hyalin"
+    },
+    "description": {
+      "en": "Hyalin"
+    },
+    "aliases": {
+      "en": [
+        "Hyalin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hydramacin-1",
+    "label": {
+      "en": "Hydramacin-1"
+    },
+    "description": {
+      "en": "Hydramacin-1"
+    },
+    "aliases": {
+      "en": [
+        "Hydramacin-1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hydrolyzed-protein",
+    "label": {
+      "en": "Hydrolyzed protein"
+    },
+    "description": {
+      "en": "Hydrolyzed protein"
+    },
+    "aliases": {
+      "en": [
+        "Hydrolyzed protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hydrophobin",
+    "label": {
+      "en": "Hydrophobin"
+    },
+    "description": {
+      "en": "Hydrophobin"
+    },
+    "aliases": {
+      "en": [
+        "Hydrophobin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "hypothome",
+    "label": {
+      "en": "Hypothome"
+    },
+    "description": {
+      "en": "Hypothome"
+    },
+    "aliases": {
+      "en": [
+        "Hypothome"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "igha2",
+    "label": {
+      "en": "IGHA2"
+    },
+    "description": {
+      "en": "IGHA2"
+    },
+    "aliases": {
+      "en": [
+        "IGHA2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ighe",
+    "label": {
+      "en": "IGHE"
+    },
+    "description": {
+      "en": "IGHE"
+    },
+    "aliases": {
+      "en": [
+        "IGHE"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ighg3",
+    "label": {
+      "en": "IGHG3"
+    },
+    "description": {
+      "en": "IGHG3"
+    },
+    "aliases": {
+      "en": [
+        "IGHG3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ighg4",
+    "label": {
+      "en": "IGHG4"
+    },
+    "description": {
+      "en": "IGHG4"
+    },
+    "aliases": {
+      "en": [
+        "IGHG4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ighm",
+    "label": {
+      "en": "IGHM"
+    },
+    "description": {
+      "en": "IGHM"
+    },
+    "aliases": {
+      "en": [
+        "IGHM"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ighv@",
+    "label": {
+      "en": "IGHV@"
+    },
+    "description": {
+      "en": "IGHV@"
+    },
+    "aliases": {
+      "en": [
+        "IGHV@"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "igk@",
+    "label": {
+      "en": "IGK@"
+    },
+    "description": {
+      "en": "IGK@"
+    },
+    "aliases": {
+      "en": [
+        "IGK@"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "igkc",
+    "label": {
+      "en": "IGKC"
+    },
+    "description": {
+      "en": "IGKC"
+    },
+    "aliases": {
+      "en": [
+        "IGKC"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ihh",
+    "label": {
+      "en": "IHH"
+    },
+    "description": {
+      "en": "IHH"
+    },
+    "aliases": {
+      "en": [
+        "IHH"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ikbkg",
+    "label": {
+      "en": "IKBKG"
+    },
+    "description": {
+      "en": "IKBKG"
+    },
+    "aliases": {
+      "en": [
+        "IKBKG"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "inner-nuclear-membrane-protein",
+    "label": {
+      "en": "Inner nuclear membrane protein"
+    },
+    "description": {
+      "en": "Inner nuclear membrane protein"
+    },
+    "aliases": {
+      "en": [
+        "Inner nuclear membrane protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "integrin-linked-kinase",
+    "label": {
+      "en": "Integrin-linked kinase"
+    },
+    "description": {
+      "en": "Integrin-linked kinase"
+    },
+    "aliases": {
+      "en": [
+        "Integrin-linked kinase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "intein",
+    "label": {
+      "en": "Intein"
+    },
+    "description": {
+      "en": "Intein"
+    },
+    "aliases": {
+      "en": [
+        "Intein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "intrinsically-disordered-proteins",
+    "label": {
+      "en": "Intrinsically disordered proteins"
+    },
+    "description": {
+      "en": "Intrinsically disordered proteins"
+    },
+    "aliases": {
+      "en": [
+        "Intrinsically disordered proteins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "j-chain",
+    "label": {
+      "en": "J chain"
+    },
+    "description": {
+      "en": "J chain"
+    },
+    "aliases": {
+      "en": [
+        "J chain"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "junq-and-ipod",
+    "label": {
+      "en": "JUNQ and IPOD"
+    },
+    "description": {
+      "en": "JUNQ and IPOD"
+    },
+    "aliases": {
+      "en": [
+        "JUNQ and IPOD"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "k-casein",
+    "label": {
+      "en": "K-Casein"
+    },
+    "description": {
+      "en": "K-Casein"
+    },
+    "aliases": {
+      "en": [
+        "K-Casein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kalirin",
+    "label": {
+      "en": "Kalirin"
+    },
+    "description": {
+      "en": "Kalirin"
+    },
+    "aliases": {
+      "en": [
+        "Kalirin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "karyopherin-alpha-2",
+    "label": {
+      "en": "Karyopherin alpha 2"
+    },
+    "description": {
+      "en": "Karyopherin alpha 2"
+    },
+    "aliases": {
+      "en": [
+        "Karyopherin alpha 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "katanin",
+    "label": {
+      "en": "Katanin",
+      "fr": "Katanine"
+    },
+    "description": {
+      "en": "Katanin",
+      "fr": "Katanine"
+    },
+    "aliases": {
+      "en": [
+        "katanin",
+        "katanins"
+      ],
+      "fr": [
+        "katanine",
+        "katanines"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kelch-protein",
+    "label": {
+      "en": "Kelch protein"
+    },
+    "description": {
+      "en": "Kelch protein"
+    },
+    "aliases": {
+      "en": [
+        "Kelch protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "keyhole-limpet-hemocyanin",
+    "label": {
+      "en": "Keyhole limpet hemocyanin"
+    },
+    "description": {
+      "en": "Keyhole limpet hemocyanin"
+    },
+    "aliases": {
+      "en": [
+        "Keyhole limpet hemocyanin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ki-67",
+    "label": {
+      "en": "Ki-67"
+    },
+    "description": {
+      "en": "Ki-67"
+    },
+    "aliases": {
+      "en": [
+        "Ki-67"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kiaa0232",
+    "label": {
+      "en": "KIAA0232"
+    },
+    "description": {
+      "en": "KIAA0232"
+    },
+    "aliases": {
+      "en": [
+        "KIAA0232"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kif6",
+    "label": {
+      "en": "KIF6"
+    },
+    "description": {
+      "en": "KIF6"
+    },
+    "aliases": {
+      "en": [
+        "KIF6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "knotted-protein",
+    "label": {
+      "en": "Knotted protein"
+    },
+    "description": {
+      "en": "Knotted protein"
+    },
+    "aliases": {
+      "en": [
+        "Knotted protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "krp",
+    "label": {
+      "en": "KRP"
+    },
+    "description": {
+      "en": "KRP"
+    },
+    "aliases": {
+      "en": [
+        "KRP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ku",
+    "label": {
+      "en": "Ku"
+    },
+    "description": {
+      "en": "Ku"
+    },
+    "aliases": {
+      "en": [
+        "Ku"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kvlqt1",
+    "label": {
+      "en": "KvLQT1"
+    },
+    "description": {
+      "en": "KvLQT1"
+    },
+    "aliases": {
+      "en": [
+        "KvLQT1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kvlqt2",
+    "label": {
+      "en": "KvLQT2"
+    },
+    "description": {
+      "en": "KvLQT2"
+    },
+    "aliases": {
+      "en": [
+        "KvLQT2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kvlqt3",
+    "label": {
+      "en": "KvLQT3"
+    },
+    "description": {
+      "en": "KvLQT3"
+    },
+    "aliases": {
+      "en": [
+        "KvLQT3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "laccase",
+    "label": {
+      "en": "Laccase"
+    },
+    "description": {
+      "en": "Laccase"
+    },
+    "aliases": {
+      "en": [
+        "Laccase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "langerin",
+    "label": {
+      "en": "Langerin",
+      "fr": "Langerine"
+    },
+    "description": {
+      "en": "Langerin",
+      "fr": "Langerine"
+    },
+    "aliases": {
+      "en": [
+        "langerin",
+        "langerins"
+      ],
+      "fr": [
+        "langerine",
+        "langerines"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "late-embryogenesis-abundant-proteins",
+    "label": {
+      "en": "Late embryogenesis abundant proteins"
+    },
+    "description": {
+      "en": "Late embryogenesis abundant proteins"
+    },
+    "aliases": {
+      "en": [
+        "Late embryogenesis abundant proteins"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "late-protein",
+    "label": {
+      "en": "Late protein"
+    },
+    "description": {
+      "en": "Late protein"
+    },
+    "aliases": {
+      "en": [
+        "Late protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "leaf-protein-concentrate",
+    "label": {
+      "en": "Leaf protein concentrate"
+    },
+    "description": {
+      "en": "Leaf protein concentrate"
+    },
+    "aliases": {
+      "en": [
+        "Leaf protein concentrate"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lectin",
+    "label": {
+      "en": "Lectin",
+      "fr": "Lectine"
+    },
+    "description": {
+      "en": "Lectin",
+      "fr": "Lectine"
+    },
+    "aliases": {
+      "en": [
+        "lectin",
+        "lectins"
+      ],
+      "fr": [
+        "lectine",
+        "lectines"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lefty2",
+    "label": {
+      "en": "LEFTY2"
+    },
+    "description": {
+      "en": "LEFTY2"
+    },
+    "aliases": {
+      "en": [
+        "LEFTY2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "legumin",
+    "label": {
+      "en": "Legumin"
+    },
+    "description": {
+      "en": "Legumin"
+    },
+    "aliases": {
+      "en": [
+        "Legumin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lekti-2",
+    "label": {
+      "en": "LEKTI-2"
+    },
+    "description": {
+      "en": "LEKTI-2"
+    },
+    "aliases": {
+      "en": [
+        "LEKTI-2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "leucine-responsive-regulatory-protein",
+    "label": {
+      "en": "Leucine-responsive regulatory protein"
+    },
+    "description": {
+      "en": "Leucine-responsive regulatory protein"
+    },
+    "aliases": {
+      "en": [
+        "Leucine-responsive regulatory protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "leucine-rich-repeats-and-iq-motif-containing-1",
+    "label": {
+      "en": "Leucine-rich repeats and iq motif containing 1"
+    },
+    "description": {
+      "en": "Leucine-rich repeats and iq motif containing 1"
+    },
+    "aliases": {
+      "en": [
+        "Leucine-rich repeats and iq motif containing 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "linc00520",
+    "label": {
+      "en": "LINC00520"
+    },
+    "description": {
+      "en": "LINC00520"
+    },
+    "aliases": {
+      "en": [
+        "LINC00520"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lipoprotein-associated-phospholipase-a2",
+    "label": {
+      "en": "Lipoprotein-associated phospholipase A2"
+    },
+    "description": {
+      "en": "Lipoprotein-associated phospholipase A2"
+    },
+    "aliases": {
+      "en": [
+        "Lipoprotein-associated phospholipase A2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "long-intergenic-non-protein-coding-rna-598",
+    "label": {
+      "en": "Long intergenic non-protein coding rna 598"
+    },
+    "description": {
+      "en": "Long intergenic non-protein coding rna 598"
+    },
+    "aliases": {
+      "en": [
+        "Long intergenic non-protein coding rna 598"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "long-intergenic-non-protein-coding-rna-1420",
+    "label": {
+      "en": "Long intergenic non-protein coding rna 1420"
+    },
+    "description": {
+      "en": "Long intergenic non-protein coding rna 1420"
+    },
+    "aliases": {
+      "en": [
+        "Long intergenic non-protein coding rna 1420"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lsm",
+    "label": {
+      "en": "LSm"
+    },
+    "description": {
+      "en": "LSm"
+    },
+    "aliases": {
+      "en": [
+        "LSm"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lumican",
+    "label": {
+      "en": "Lumican"
+    },
+    "description": {
+      "en": "Lumican"
+    },
+    "aliases": {
+      "en": [
+        "Lumican"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lustrin-a",
+    "label": {
+      "en": "Lustrin A"
+    },
+    "description": {
+      "en": "Lustrin A"
+    },
+    "aliases": {
+      "en": [
+        "Lustrin A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lymphocyte-cytosolic-protein-2",
+    "label": {
+      "en": "Lymphocyte cytosolic protein 2"
+    },
+    "description": {
+      "en": "Lymphocyte cytosolic protein 2"
+    },
+    "aliases": {
+      "en": [
+        "Lymphocyte cytosolic protein 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "lymphocyte-expansion-molecule",
+    "label": {
+      "en": "Lymphocyte expansion molecule"
+    },
+    "description": {
+      "en": "Lymphocyte expansion molecule"
+    },
+    "aliases": {
+      "en": [
+        "Lymphocyte expansion molecule"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mabinlin",
+    "label": {
+      "en": "Mabinlin"
+    },
+    "description": {
+      "en": "Mabinlin"
+    },
+    "aliases": {
+      "en": [
+        "Mabinlin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mad1",
+    "label": {
+      "en": "Mad1"
+    },
+    "description": {
+      "en": "Mad1"
+    },
+    "aliases": {
+      "en": [
+        "Mad1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mads-box",
+    "label": {
+      "en": "MADS-box"
+    },
+    "description": {
+      "en": "MADS-box"
+    },
+    "aliases": {
+      "en": [
+        "MADS-box"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "maltose-binding-protein",
+    "label": {
+      "en": "Maltose-binding protein"
+    },
+    "description": {
+      "en": "Maltose-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Maltose-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "matrix-gla-protein",
+    "label": {
+      "en": "Matrix gla protein"
+    },
+    "description": {
+      "en": "Matrix gla protein"
+    },
+    "aliases": {
+      "en": [
+        "Matrix gla protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "maurocalcine",
+    "label": {
+      "en": "Maurocalcine"
+    },
+    "description": {
+      "en": "Maurocalcine"
+    },
+    "aliases": {
+      "en": [
+        "Maurocalcine",
+        "maurocalcin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mcm6",
+    "label": {
+      "en": "MCM6"
+    },
+    "description": {
+      "en": "MCM6"
+    },
+    "aliases": {
+      "en": [
+        "MCM6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mdm2",
+    "label": {
+      "en": "Mdm2"
+    },
+    "description": {
+      "en": "Mdm2"
+    },
+    "aliases": {
+      "en": [
+        "Mdm2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "merozoite-surface-protein",
+    "label": {
+      "en": "Merozoite surface protein"
+    },
+    "description": {
+      "en": "Merozoite surface protein"
+    },
+    "aliases": {
+      "en": [
+        "Merozoite surface protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mesothelin",
+    "label": {
+      "en": "Mesothelin"
+    },
+    "description": {
+      "en": "Mesothelin"
+    },
+    "aliases": {
+      "en": [
+        "Mesothelin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "metastasis-suppressor",
+    "label": {
+      "en": "Metastasis suppressor"
+    },
+    "description": {
+      "en": "Metastasis suppressor"
+    },
+    "aliases": {
+      "en": [
+        "Metastasis suppressor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "methanosarcinales-s-layer-tile-protein",
+    "label": {
+      "en": "Methanosarcinales S-layer Tile Protein"
+    },
+    "description": {
+      "en": "Methanosarcinales S-layer Tile Protein"
+    },
+    "aliases": {
+      "en": [
+        "Methanosarcinales S-layer Tile Protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "methemalbumin",
+    "label": {
+      "en": "Methemalbumin",
+      "fr": "Méthémalbumine"
+    },
+    "description": {
+      "en": "Methemalbumin",
+      "fr": "Méthémalbumine"
+    },
+    "aliases": {
+      "en": [
+        "Methemalbumin"
+      ],
+      "fr": [
+        "méthémalbumine",
+        "methemalbumine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "microglobulin",
+    "label": {
+      "en": "Microglobulin",
+      "fr": "Microglobuline"
+    },
+    "description": {
+      "en": "Microglobulin",
+      "fr": "Microglobuline"
+    },
+    "aliases": {
+      "en": [
+        "microglobulin"
+      ],
+      "fr": [
+        "microglobuline"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "microtubule-plus-end-tracking-protein",
+    "label": {
+      "en": "Microtubule plus-end tracking protein"
+    },
+    "description": {
+      "en": "Microtubule plus-end tracking protein"
+    },
+    "aliases": {
+      "en": [
+        "Microtubule plus-end tracking protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "midkine",
+    "label": {
+      "en": "Midkine"
+    },
+    "description": {
+      "en": "Midkine"
+    },
+    "aliases": {
+      "en": [
+        "Midkine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "miraculin",
+    "label": {
+      "en": "Miraculin"
+    },
+    "description": {
+      "en": "Miraculin"
+    },
+    "aliases": {
+      "en": [
+        "Miraculin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mitochondrial-amidoxime-reducing-component-1",
+    "label": {
+      "en": "Mitochondrial amidoxime reducing component 1"
+    },
+    "description": {
+      "en": "Mitochondrial amidoxime reducing component 1"
+    },
+    "aliases": {
+      "en": [
+        "Mitochondrial amidoxime reducing component 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mitochondrial-trifunctional-protein",
+    "label": {
+      "en": "Mitochondrial trifunctional protein"
+    },
+    "description": {
+      "en": "Mitochondrial trifunctional protein"
+    },
+    "aliases": {
+      "en": [
+        "Mitochondrial trifunctional protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "kmt2a",
+    "label": {
+      "en": "KMT2A"
+    },
+    "description": {
+      "en": "KMT2A"
+    },
+    "aliases": {
+      "en": [
+        "KMT2A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "modulin",
+    "label": {
+      "en": "Modulin"
+    },
+    "description": {
+      "en": "Modulin"
+    },
+    "aliases": {
+      "en": [
+        "Modulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "monopolin",
+    "label": {
+      "en": "Monopolin"
+    },
+    "description": {
+      "en": "Monopolin"
+    },
+    "aliases": {
+      "en": [
+        "Monopolin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "morfs",
+    "label": {
+      "en": "MoRFs"
+    },
+    "description": {
+      "en": "MoRFs"
+    },
+    "aliases": {
+      "en": [
+        "MoRFs"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "morpheein",
+    "label": {
+      "en": "Morpheein"
+    },
+    "description": {
+      "en": "Morpheein"
+    },
+    "aliases": {
+      "en": [
+        "Morpheein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mosaic-protein",
+    "label": {
+      "en": "Mosaic protein"
+    },
+    "description": {
+      "en": "Mosaic protein"
+    },
+    "aliases": {
+      "en": [
+        "Mosaic protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mreb",
+    "label": {
+      "en": "MreB"
+    },
+    "description": {
+      "en": "MreB"
+    },
+    "aliases": {
+      "en": [
+        "MreB"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-atp8",
+    "label": {
+      "en": "MT-ATP8"
+    },
+    "description": {
+      "en": "MT-ATP8"
+    },
+    "aliases": {
+      "en": [
+        "MT-ATP8"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd1",
+    "label": {
+      "en": "MT-ND1"
+    },
+    "description": {
+      "en": "MT-ND1"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd2",
+    "label": {
+      "en": "MT-ND2"
+    },
+    "description": {
+      "en": "MT-ND2"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd3",
+    "label": {
+      "en": "MT-ND3"
+    },
+    "description": {
+      "en": "MT-ND3"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd4",
+    "label": {
+      "en": "MT-ND4"
+    },
+    "description": {
+      "en": "MT-ND4"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd4l",
+    "label": {
+      "en": "MT-ND4L"
+    },
+    "description": {
+      "en": "MT-ND4L"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND4L"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd5",
+    "label": {
+      "en": "MT-ND5"
+    },
+    "description": {
+      "en": "MT-ND5"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND5"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mt-nd6",
+    "label": {
+      "en": "MT-ND6"
+    },
+    "description": {
+      "en": "MT-ND6"
+    },
+    "aliases": {
+      "en": [
+        "MT-ND6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mucin",
+    "label": {
+      "en": "Mucin"
+    },
+    "description": {
+      "en": "Mucin"
+    },
+    "aliases": {
+      "en": [
+        "Mucin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mucin-21",
+    "label": {
+      "en": "Mucin 21"
+    },
+    "description": {
+      "en": "Mucin 21"
+    },
+    "aliases": {
+      "en": [
+        "Mucin 21"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "muscarinic-toxin-7",
+    "label": {
+      "en": "Muscarinic toxin 7"
+    },
+    "description": {
+      "en": "Muscarinic toxin 7"
+    },
+    "aliases": {
+      "en": [
+        "Muscarinic toxin 7"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "musk-protein",
+    "label": {
+      "en": "MuSK protein"
+    },
+    "description": {
+      "en": "MuSK protein"
+    },
+    "aliases": {
+      "en": [
+        "MuSK protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mutant-protein",
+    "label": {
+      "en": "Mutant protein"
+    },
+    "description": {
+      "en": "Mutant protein"
+    },
+    "aliases": {
+      "en": [
+        "Mutant protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mycoprotein",
+    "label": {
+      "en": "Mycoprotein",
+      "fr": "Mycoprotéine"
+    },
+    "description": {
+      "en": "Mycoprotein",
+      "fr": "Mycoprotéine"
+    },
+    "aliases": {
+      "en": [
+        "Mycoprotein"
+      ],
+      "en": [
+        "mycoprotéine",
+        "mycoproteine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "myeloma-protein",
+    "label": {
+      "en": "Myeloma protein"
+    },
+    "description": {
+      "en": "Myeloma protein"
+    },
+    "aliases": {
+      "en": [
+        "Myeloma protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "myo7a",
+    "label": {
+      "en": "MYO7A"
+    },
+    "description": {
+      "en": "MYO7A"
+    },
+    "aliases": {
+      "en": [
+        "MYO7A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "myomesin",
+    "label": {
+      "en": "Myomesin",
+      "fr": "Myomésine"
+    },
+    "description": {
+      "en": "Myomesin",
+      "fr": "Myomésine"
+    },
+    "aliases": {
+      "en": [
+        "Myomesin"
+      ],
+      "fr": [
+        "Myomésine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "myosin",
+    "label": {
+      "en": "Myosin",
+      "fr": "Myosine"
+    },
+    "description": {
+      "en": "Myosin",
+      "fr": "Myosine"
+    },
+    "aliases": {
+      "en": [
+        "Myosin"
+      ],
+      "fr": [
+        "Myosine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "mypn",
+    "label": {
+      "en": "MYPN"
+    },
+    "description": {
+      "en": "MYPN"
+    },
+    "aliases": {
+      "en": [
+        "MYPN"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "n-ethylmaleimide-sensitive-fusion-protein",
+    "label": {
+      "en": "N-ethylmaleimide sensitive fusion protein"
+    },
+    "description": {
+      "en": "N-ethylmaleimide sensitive fusion protein"
+    },
+    "aliases": {
+      "en": [
+        "N-ethylmaleimide sensitive fusion protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "n-terminus",
+    "label": {
+      "en": "N-terminus"
+    },
+    "description": {
+      "en": "N-terminus"
+    },
+    "aliases": {
+      "en": [
+        "N-terminus"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nav1.4",
+    "label": {
+      "en": "Nav1.4"
+    },
+    "description": {
+      "en": "Nav1.4"
+    },
+    "aliases": {
+      "en": [
+        "Nav1.4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nav1.5",
+    "label": {
+      "en": "Nav1.5"
+    },
+    "description": {
+      "en": "Nav1.5"
+    },
+    "aliases": {
+      "en": [
+        "Nav1.5"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ndufa4l2",
+    "label": {
+      "en": "NDUFA4L2"
+    },
+    "description": {
+      "en": "NDUFA4L2"
+    },
+    "aliases": {
+      "en": [
+        "NDUFA4L2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ndufab1",
+    "label": {
+      "en": "NDUFAB1"
+    },
+    "description": {
+      "en": "NDUFAB1"
+    },
+    "aliases": {
+      "en": [
+        "NDUFAB1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ndufb4",
+    "label": {
+      "en": "NDUFB4"
+    },
+    "description": {
+      "en": "NDUFB4"
+    },
+    "aliases": {
+      "en": [
+        "NDUFB4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nebulette",
+    "label": {
+      "en": "Nebulette"
+    },
+    "description": {
+      "en": "Nebulette"
+    },
+    "aliases": {
+      "en": [
+        "Nebulette"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nebulin",
+    "label": {
+      "en": "Nebulin"
+    },
+    "description": {
+      "en": "Nebulin"
+    },
+    "aliases": {
+      "en": [
+        "Nebulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nephrin",
+    "label": {
+      "en": "Nephrin"
+    },
+    "description": {
+      "en": "Nephrin"
+    },
+    "aliases": {
+      "en": [
+        "Nephrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nerve-growth-factor",
+    "label": {
+      "en": "Nerve growth factor"
+    },
+    "description": {
+      "en": "Nerve growth factor"
+    },
+    "aliases": {
+      "en": [
+        "Nerve growth factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nesfatin-1",
+    "label": {
+      "en": "Nesfatin-1"
+    },
+    "description": {
+      "en": "Nesfatin-1"
+    },
+    "aliases": {
+      "en": [
+        "Nesfatin-1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nestin",
+    "label": {
+      "en": "Nestin"
+    },
+    "description": {
+      "en": "Nestin"
+    },
+    "aliases": {
+      "en": [
+        "Nestin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "netrin",
+    "label": {
+      "en": "Netrin"
+    },
+    "description": {
+      "en": "Netrin"
+    },
+    "aliases": {
+      "en": [
+        "Netrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neuregulin-1",
+    "label": {
+      "en": "Neuregulin 1"
+    },
+    "description": {
+      "en": "Neuregulin 1"
+    },
+    "aliases": {
+      "en": [
+        "Neuregulin 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neurocalcin",
+    "label": {
+      "en": "Neurocalcin"
+    },
+    "description": {
+      "en": "Neurocalcin"
+    },
+    "aliases": {
+      "en": [
+        "Neurocalcin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neurofibromin-1",
+    "label": {
+      "en": "Neurofibromin 1"
+    },
+    "description": {
+      "en": "Neurofibromin 1"
+    },
+    "aliases": {
+      "en": [
+        "Neurofibromin 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neuronal-calcium-sensor-1",
+    "label": {
+      "en": "Neuronal calcium sensor-1"
+    },
+    "description": {
+      "en": "Neuronal calcium sensor-1"
+    },
+    "aliases": {
+      "en": [
+        "Neuronal calcium sensor-1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neuropilin-1",
+    "label": {
+      "en": "Neuropilin 1"
+    },
+    "description": {
+      "en": "Neuropilin 1"
+    },
+    "aliases": {
+      "en": [
+        "Neuropilin 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neurotrophin-3",
+    "label": {
+      "en": "Neurotrophin-3"
+    },
+    "description": {
+      "en": "Neurotrophin-3"
+    },
+    "aliases": {
+      "en": [
+        "Neurotrophin-3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neurotrophin-4",
+    "label": {
+      "en": "Neurotrophin-4"
+    },
+    "description": {
+      "en": "Neurotrophin-4"
+    },
+    "aliases": {
+      "en": [
+        "Neurotrophin-4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neutravidin",
+    "label": {
+      "en": "NeutrAvidin"
+    },
+    "description": {
+      "en": "NeutrAvidin"
+    },
+    "aliases": {
+      "en": [
+        "NeutrAvidin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "neutrophil-cytosolic-factor-4",
+    "label": {
+      "en": "Neutrophil cytosolic factor 4"
+    },
+    "description": {
+      "en": "Neutrophil cytosolic factor 4"
+    },
+    "aliases": {
+      "en": [
+        "Neutrophil cytosolic factor 4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nexin",
+    "label": {
+      "en": "Nexin"
+    },
+    "description": {
+      "en": "Nexin"
+    },
+    "aliases": {
+      "en": [
+        "Nexin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nibrin",
+    "label": {
+      "en": "Nibrin"
+    },
+    "description": {
+      "en": "Nibrin"
+    },
+    "aliases": {
+      "en": [
+        "Nibrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nicastrin",
+    "label": {
+      "en": "Nicastrin"
+    },
+    "description": {
+      "en": "Nicastrin"
+    },
+    "aliases": {
+      "en": [
+        "Nicastrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nk2-homeobox-1",
+    "label": {
+      "en": "NK2 homeobox 1"
+    },
+    "description": {
+      "en": "NK2 homeobox 1"
+    },
+    "aliases": {
+      "en": [
+        "NK2 homeobox 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "non-homologous-end-joining-factor-1",
+    "label": {
+      "en": "Non-homologous end-joining factor 1"
+    },
+    "description": {
+      "en": "Non-homologous end-joining factor 1"
+    },
+    "aliases": {
+      "en": [
+        "Non-homologous end-joining factor 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "npas3",
+    "label": {
+      "en": "NPAS3"
+    },
+    "description": {
+      "en": "NPAS3"
+    },
+    "aliases": {
+      "en": [
+        "NPAS3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ns1-influenza-protein",
+    "label": {
+      "en": "NS1 influenza protein"
+    },
+    "description": {
+      "en": "NS1 influenza protein"
+    },
+    "aliases": {
+      "en": [
+        "NS1 influenza protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nt5c1a",
+    "label": {
+      "en": "NT5C1A"
+    },
+    "description": {
+      "en": "NT5C1A"
+    },
+    "aliases": {
+      "en": [
+        "NT5C1A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ntrc",
+    "label": {
+      "en": "NtrC"
+    },
+    "description": {
+      "en": "NtrC"
+    },
+    "aliases": {
+      "en": [
+        "NtrC"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nubpl",
+    "label": {
+      "en": "NUBPL"
+    },
+    "description": {
+      "en": "NUBPL"
+    },
+    "aliases": {
+      "en": [
+        "NUBPL"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nucleolin",
+    "label": {
+      "en": "Nucleolin",
+      "fr": "Nucléoline"
+    },
+    "description": {
+      "en": "Nucleolin",
+      "fr": "Nucléoline"
+    },
+    "aliases": {
+      "en": [
+        "Nucleolin"
+      ],
+      "fr": [
+        "Nucléoline",
+        "nucleoline"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nucleoplasmin",
+    "label": {
+      "en": "Nucleoplasmin",
+      "fr": "Nucléoplasmine"
+    },
+    "description": {
+      "en": "Nucleoplasmin",
+      "fr": "Nucléoplasmine"
+    },
+    "aliases": {
+      "en": [
+        "Nucleoplasmin"
+      ],
+      "fr": [
+        "Nucléoplasmine",
+        "nucleoplasmine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nucleoprotein",
+    "label": {
+      "en": "Nucleoprotein"
+    },
+    "description": {
+      "en": "Nucleoprotein"
+    },
+    "aliases": {
+      "en": [
+        "Nucleoprotein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "nucleotide-exchange-factor",
+    "label": {
+      "en": "Nucleotide exchange factor"
+    },
+    "description": {
+      "en": "Nucleotide exchange factor"
+    },
+    "aliases": {
+      "en": [
+        "Nucleotide exchange factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ny-eso-1",
+    "label": {
+      "en": "NY-ESO-1"
+    },
+    "description": {
+      "en": "NY-ESO-1"
+    },
+    "aliases": {
+      "en": [
+        "NY-ESO-1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "oleosin",
+    "label": {
+      "en": "Oleosin",
+      "fr": "Oléosine"
+    },
+    "description": {
+      "en": "Oleosin",
+      "fr": "Oléosine"
+    },
+    "aliases": {
+      "en": [
+        "Oleosin",
+        "oleosine"
+      ],
+      "fr": [
+        "oléosine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "oncofetal-antigen",
+    "label": {
+      "en": "Oncofetal antigen"
+    },
+    "description": {
+      "en": "Oncofetal antigen"
+    },
+    "aliases": {
+      "en": [
+        "Oncofetal antigen"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "oncogenic-retroviridae-protein",
+    "label": {
+      "en": "Oncogenic retroviridae protein"
+    },
+    "description": {
+      "en": "Oncogenic retroviridae protein"
+    },
+    "aliases": {
+      "en": [
+        "Oncogenic retroviridae protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "oprozomib",
+    "label": {
+      "en": "Oprozomib"
+    },
+    "description": {
+      "en": "Oprozomib"
+    },
+    "aliases": {
+      "en": [
+        "Oprozomib"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "orange-carotenoid-protein",
+    "label": {
+      "en": "Orange carotenoid protein"
+    },
+    "description": {
+      "en": "Orange carotenoid protein"
+    },
+    "aliases": {
+      "en": [
+        "Orange carotenoid protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "orthogonal-ligand-protein-pair",
+    "label": {
+      "en": "Orthogonal ligand-protein pair"
+    },
+    "description": {
+      "en": "Orthogonal ligand-protein pair"
+    },
+    "aliases": {
+      "en": [
+        "Orthogonal ligand-protein pair"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "os9",
+    "label": {
+      "en": "OS9"
+    },
+    "description": {
+      "en": "OS9"
+    },
+    "aliases": {
+      "en": [
+        "OS9"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "osm-9",
+    "label": {
+      "en": "OSM-9"
+    },
+    "description": {
+      "en": "OSM-9"
+    },
+    "aliases": {
+      "en": [
+        "OSM-9"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "osteoid",
+    "label": {
+      "en": "Osteoid"
+    },
+    "description": {
+      "en": "Osteoid"
+    },
+    "aliases": {
+      "en": [
+        "Osteoid"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ovomucin",
+    "label": {
+      "en": "Ovomucin"
+    },
+    "description": {
+      "en": "Ovomucin"
+    },
+    "aliases": {
+      "en": [
+        "Ovomucin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ovotransferrin",
+    "label": {
+      "en": "Ovotransferrin"
+    },
+    "description": {
+      "en": "Ovotransferrin"
+    },
+    "aliases": {
+      "en": [
+        "Ovotransferrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "p-tefb",
+    "label": {
+      "en": "P-TEFb"
+    },
+    "description": {
+      "en": "P-TEFb"
+    },
+    "aliases": {
+      "en": [
+        "P-TEFb"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "p53",
+    "label": {
+      "en": "P53 Protein",
+      "fr": "Protéine P53"
+    },
+    "description": {
+      "en": "P53"
+    },
+    "aliases": {
+      "en": [
+        "protein P53",
+        "P53 protein"
+      ],
+      "fr": [
+        "protéine P53"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "p53-upregulated-modulator-of-apoptosis",
+    "label": {
+      "en": "P53 upregulated modulator of apoptosis"
+    },
+    "description": {
+      "en": "P53 upregulated modulator of apoptosis"
+    },
+    "aliases": {
+      "en": [
+        "P53 upregulated modulator of apoptosis"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "p73",
+    "label": {
+      "en": "P73 Protein",
+      "fr": "Protéine P73"
+    },
+    "description": {
+      "en": "P73"
+    },
+    "aliases": {
+      "en": [
+        "protein P73",
+        "P73 protein"
+      ],
+      "fr": [
+        "protéine P73"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pa-clan",
+    "label": {
+      "en": "PA clan"
+    },
+    "description": {
+      "en": "PA clan"
+    },
+    "aliases": {
+      "en": [
+        "PA clan"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "parasporal-body",
+    "label": {
+      "en": "Parasporal body"
+    },
+    "description": {
+      "en": "Parasporal body"
+    },
+    "aliases": {
+      "en": [
+        "Parasporal body"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "parl",
+    "label": {
+      "en": "PARL"
+    },
+    "description": {
+      "en": "PARL"
+    },
+    "aliases": {
+      "en": [
+        "PARL"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "parvalbumin",
+    "label": {
+      "en": "Parvalbumin"
+    },
+    "description": {
+      "en": "Parvalbumin"
+    },
+    "aliases": {
+      "en": [
+        "Parvalbumin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "paxillin",
+    "label": {
+      "en": "Paxillin"
+    },
+    "description": {
+      "en": "Paxillin"
+    },
+    "aliases": {
+      "en": [
+        "Paxillin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pdpr",
+    "label": {
+      "en": "PDPR"
+    },
+    "description": {
+      "en": "PDPR"
+    },
+    "aliases": {
+      "en": [
+        "PDPR"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pen-2",
+    "label": {
+      "en": "PEN-2"
+    },
+    "description": {
+      "en": "PEN-2"
+    },
+    "aliases": {
+      "en": [
+        "PEN-2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pentadin",
+    "label": {
+      "en": "Pentadin"
+    },
+    "description": {
+      "en": "Pentadin"
+    },
+    "aliases": {
+      "en": [
+        "Pentadin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "perforin",
+    "label": {
+      "en": "Perforin"
+    },
+    "description": {
+      "en": "Perforin"
+    },
+    "aliases": {
+      "en": [
+        "Perforin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "peroxin",
+    "label": {
+      "en": "Peroxin"
+    },
+    "description": {
+      "en": "Peroxin"
+    },
+    "aliases": {
+      "en": [
+        "Peroxin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "phage-p22-tailspike-protein",
+    "label": {
+      "en": "Phage P22 Tailspike Protein"
+    },
+    "description": {
+      "en": "Phage P22 Tailspike Protein"
+    },
+    "aliases": {
+      "en": [
+        "Phage P22 Tailspike Protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "phallolysin",
+    "label": {
+      "en": "Phallolysin"
+    },
+    "description": {
+      "en": "Phallolysin"
+    },
+    "aliases": {
+      "en": [
+        "Phallolysin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pheromone-binding-protein",
+    "label": {
+      "en": "Pheromone binding protein"
+    },
+    "description": {
+      "en": "Pheromone binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Pheromone binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "phorbol-12-myristate-13-acetate-induced-protein-1",
+    "label": {
+      "en": "Phorbol-12-myristate-13-acetate-induced protein 1"
+    },
+    "description": {
+      "en": "Phorbol-12-myristate-13-acetate-induced protein 1"
+    },
+    "aliases": {
+      "en": [
+        "Phorbol-12-myristate-13-acetate-induced protein 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "phycoerythrin",
+    "label": {
+      "en": "Phycoerythrin"
+    },
+    "description": {
+      "en": "Phycoerythrin"
+    },
+    "aliases": {
+      "en": [
+        "Phycoerythrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "phytohaemagglutinin",
+    "label": {
+      "en": "Phytohaemagglutinin"
+    },
+    "description": {
+      "en": "Phytohaemagglutinin"
+    },
+    "aliases": {
+      "en": [
+        "Phytohaemagglutinin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pi4kap2",
+    "label": {
+      "en": "PI4KAP2"
+    },
+    "description": {
+      "en": "PI4KAP2"
+    },
+    "aliases": {
+      "en": [
+        "PI4KAP2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pikachurin",
+    "label": {
+      "en": "Pikachurin"
+    },
+    "description": {
+      "en": "Pikachurin"
+    },
+    "aliases": {
+      "en": [
+        "Pikachurin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "piwi",
+    "label": {
+      "en": "Piwi"
+    },
+    "description": {
+      "en": "Piwi"
+    },
+    "aliases": {
+      "en": [
+        "Piwi"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "plakin",
+    "label": {
+      "en": "Plakin"
+    },
+    "description": {
+      "en": "Plakin"
+    },
+    "aliases": {
+      "en": [
+        "Plakin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pleckstrin",
+    "label": {
+      "en": "Pleckstrin"
+    },
+    "description": {
+      "en": "Pleckstrin"
+    },
+    "aliases": {
+      "en": [
+        "Pleckstrin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "plexin",
+    "label": {
+      "en": "Plexin"
+    },
+    "description": {
+      "en": "Plexin"
+    },
+    "aliases": {
+      "en": [
+        "Plexin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "podocalyxin",
+    "label": {
+      "en": "Podocalyxin"
+    },
+    "description": {
+      "en": "Podocalyxin"
+    },
+    "aliases": {
+      "en": [
+        "Podocalyxin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "podocin",
+    "label": {
+      "en": "Podocin"
+    },
+    "description": {
+      "en": "Podocin"
+    },
+    "aliases": {
+      "en": [
+        "Podocin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "prc2",
+    "label": {
+      "en": "PRC2"
+    },
+    "description": {
+      "en": "PRC2"
+    },
+    "aliases": {
+      "en": [
+        "PRC2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "prefoldin",
+    "label": {
+      "en": "Prefoldin"
+    },
+    "description": {
+      "en": "Prefoldin"
+    },
+    "aliases": {
+      "en": [
+        "Prefoldin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "prion",
+    "label": {
+      "en": "Prion"
+    },
+    "description": {
+      "en": "Prion"
+    },
+    "aliases": {
+      "en": [
+        "Prion"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "profilin",
+    "label": {
+      "en": "Profilin"
+    },
+    "description": {
+      "en": "Profilin"
+    },
+    "aliases": {
+      "en": [
+        "Profilin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "proliferating-cell-nuclear-antigen",
+    "label": {
+      "en": "Proliferating cell nuclear antigen"
+    },
+    "description": {
+      "en": "Proliferating cell nuclear antigen"
+    },
+    "aliases": {
+      "en": [
+        "Proliferating cell nuclear antigen"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "proline-rich-coiled-coil-1",
+    "label": {
+      "en": "Proline-Rich Coiled Coil 1"
+    },
+    "description": {
+      "en": "Proline-Rich Coiled Coil 1"
+    },
+    "aliases": {
+      "en": [
+        "Proline-Rich Coiled Coil 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "proser2",
+    "label": {
+      "en": "Proser2"
+    },
+    "description": {
+      "en": "Proser2"
+    },
+    "aliases": {
+      "en": [
+        "Proser2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protamine",
+    "label": {
+      "en": "Protamine"
+    },
+    "description": {
+      "en": "Protamine"
+    },
+    "aliases": {
+      "en": [
+        "Protamine"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "proteasome",
+    "label": {
+      "en": "Proteasome"
+    },
+    "description": {
+      "en": "Proteasome"
+    },
+    "aliases": {
+      "en": [
+        "Proteasome"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-a",
+    "label": {
+      "en": "Protein A"
+    },
+    "description": {
+      "en": "Protein A"
+    },
+    "aliases": {
+      "en": [
+        "Protein A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-a-g",
+    "label": {
+      "en": "Protein A/G"
+    },
+    "description": {
+      "en": "Protein A/G"
+    },
+    "aliases": {
+      "en": [
+        "Protein A/G"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-g",
+    "label": {
+      "en": "Protein G"
+    },
+    "description": {
+      "en": "Protein G"
+    },
+    "aliases": {
+      "en": [
+        "Protein G"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-inhibitor-of-activated-stat",
+    "label": {
+      "en": "Protein inhibitor of activated STAT"
+    },
+    "description": {
+      "en": "Protein inhibitor of activated STAT"
+    },
+    "aliases": {
+      "en": [
+        "Protein inhibitor of activated STAT"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-k",
+    "label": {
+      "en": "Protein K"
+    },
+    "description": {
+      "en": "Protein K"
+    },
+    "aliases": {
+      "en": [
+        "Protein K"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-l",
+    "label": {
+      "en": "Protein L"
+    },
+    "description": {
+      "en": "Protein L"
+    },
+    "aliases": {
+      "en": [
+        "Protein L"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "protein-s",
+    "label": {
+      "en": "Protein S"
+    },
+    "description": {
+      "en": "Protein S"
+    },
+    "aliases": {
+      "en": [
+        "Protein S"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "micrococcal-nuclease",
+    "label": {
+      "en": "Micrococcal nuclease"
+    },
+    "description": {
+      "en": "Micrococcal nuclease"
+    },
+    "aliases": {
+      "en": [
+        "Micrococcal nuclease"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "oncomodulin",
+    "label": {
+      "en": "Oncomodulin"
+    },
+    "description": {
+      "en": "Oncomodulin"
+    },
+    "aliases": {
+      "en": [
+        "Oncomodulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "proteorhodopsin",
+    "label": {
+      "en": "Proteorhodopsin"
+    },
+    "description": {
+      "en": "Proteorhodopsin"
+    },
+    "aliases": {
+      "en": [
+        "Proteorhodopsin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "proteose",
+    "label": {
+      "en": "Proteose"
+    },
+    "description": {
+      "en": "Proteose"
+    },
+    "aliases": {
+      "en": [
+        "Proteose"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "prp8",
+    "label": {
+      "en": "Prp8"
+    },
+    "description": {
+      "en": "Prp8"
+    },
+    "aliases": {
+      "en": [
+        "Prp8"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "prr29",
+    "label": {
+      "en": "PRR29"
+    },
+    "description": {
+      "en": "PRR29"
+    },
+    "aliases": {
+      "en": [
+        "PRR29"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ptchd4",
+    "label": {
+      "en": "PTCHD4"
+    },
+    "description": {
+      "en": "PTCHD4"
+    },
+    "aliases": {
+      "en": [
+        "PTCHD4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "purpurin",
+    "label": {
+      "en": "Purpurin"
+    },
+    "description": {
+      "en": "Purpurin"
+    },
+    "aliases": {
+      "en": [
+        "Purpurin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "pyridinoline",
+    "label": {
+      "en": "Pyridinoline"
+    },
+    "description": {
+      "en": "Pyridinoline"
+    },
+    "aliases": {
+      "en": [
+        "Pyridinoline"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "qrich1",
+    "label": {
+      "en": "QRICH1"
+    },
+    "description": {
+      "en": "QRICH1"
+    },
+    "aliases": {
+      "en": [
+        "QRICH1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ras-p21-protein-activator-1",
+    "label": {
+      "en": "RAS p21 protein activator 1"
+    },
+    "description": {
+      "en": "RAS p21 protein activator 1"
+    },
+    "aliases": {
+      "en": [
+        "RAS p21 protein activator 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ras2",
+    "label": {
+      "en": "Ras2"
+    },
+    "description": {
+      "en": "Ras2"
+    },
+    "aliases": {
+      "en": [
+        "Ras2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rdh13",
+    "label": {
+      "en": "RDH13"
+    },
+    "description": {
+      "en": "RDH13"
+    },
+    "aliases": {
+      "en": [
+        "RDH13"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "recoverin",
+    "label": {
+      "en": "Recoverin"
+    },
+    "description": {
+      "en": "Recoverin"
+    },
+    "aliases": {
+      "en": [
+        "Recoverin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "regucalcin",
+    "label": {
+      "en": "Regucalcin"
+    },
+    "description": {
+      "en": "Regucalcin"
+    },
+    "aliases": {
+      "en": [
+        "Regucalcin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "release-factor",
+    "label": {
+      "en": "Release factor"
+    },
+    "description": {
+      "en": "Release factor"
+    },
+    "aliases": {
+      "en": [
+        "Release factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "repulsive-guidance-molecule",
+    "label": {
+      "en": "Repulsive guidance molecule"
+    },
+    "description": {
+      "en": "Repulsive guidance molecule"
+    },
+    "aliases": {
+      "en": [
+        "Repulsive guidance molecule"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "reticulon",
+    "label": {
+      "en": "Reticulon"
+    },
+    "description": {
+      "en": "Reticulon"
+    },
+    "aliases": {
+      "en": [
+        "Reticulon"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "retinol-binding-protein",
+    "label": {
+      "en": "Retinol binding protein"
+    },
+    "description": {
+      "en": "Retinol binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Retinol binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "retinol-binding-protein-4",
+    "label": {
+      "en": "Retinol binding protein 4"
+    },
+    "description": {
+      "en": "Retinol binding protein 4"
+    },
+    "aliases": {
+      "en": [
+        "Retinol binding protein 4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rgs4",
+    "label": {
+      "en": "RGS4"
+    },
+    "description": {
+      "en": "RGS4"
+    },
+    "aliases": {
+      "en": [
+        "RGS4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "riafp",
+    "label": {
+      "en": "RiAFP"
+    },
+    "description": {
+      "en": "RiAFP"
+    },
+    "aliases": {
+      "en": [
+        "RiAFP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ribosomal-protein",
+    "label": {
+      "en": "Ribosomal protein"
+    },
+    "description": {
+      "en": "Ribosomal protein"
+    },
+    "aliases": {
+      "en": [
+        "Ribosomal protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ribosomal-s6-kinase",
+    "label": {
+      "en": "Ribosomal s6 kinase"
+    },
+    "description": {
+      "en": "Ribosomal s6 kinase"
+    },
+    "aliases": {
+      "en": [
+        "Ribosomal s6 kinase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ribosome-recycling-factor",
+    "label": {
+      "en": "Ribosome Recycling Factor"
+    },
+    "description": {
+      "en": "Ribosome Recycling Factor"
+    },
+    "aliases": {
+      "en": [
+        "Ribosome Recycling Factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ricin",
+    "label": {
+      "en": "Ricin"
+    },
+    "description": {
+      "en": "Ricin"
+    },
+    "aliases": {
+      "en": [
+        "Ricin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rna-polymerase-i",
+    "label": {
+      "en": "RNA polymerase I"
+    },
+    "description": {
+      "en": "RNA polymerase I"
+    },
+    "aliases": {
+      "en": [
+        "RNA polymerase I"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rna-polymerase-ii",
+    "label": {
+      "en": "RNA polymerase II"
+    },
+    "description": {
+      "en": "RNA polymerase II"
+    },
+    "aliases": {
+      "en": [
+        "RNA polymerase II"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rna-polymerase-iii",
+    "label": {
+      "en": "RNA polymerase III"
+    },
+    "description": {
+      "en": "RNA polymerase III"
+    },
+    "aliases": {
+      "en": [
+        "RNA polymerase III"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rnr1",
+    "label": {
+      "en": "RNR1"
+    },
+    "description": {
+      "en": "RNR1"
+    },
+    "aliases": {
+      "en": [
+        "RNR1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rnr3",
+    "label": {
+      "en": "RNR3"
+    },
+    "description": {
+      "en": "RNR3"
+    },
+    "aliases": {
+      "en": [
+        "RNR3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rnr4",
+    "label": {
+      "en": "RNR4"
+    },
+    "description": {
+      "en": "RNR4"
+    },
+    "aliases": {
+      "en": [
+        "RNR4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rnr5",
+    "label": {
+      "en": "RNR5"
+    },
+    "description": {
+      "en": "RNR5"
+    },
+    "aliases": {
+      "en": [
+        "RNR5"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "roda",
+    "label": {
+      "en": "RodA"
+    },
+    "description": {
+      "en": "RodA"
+    },
+    "aliases": {
+      "en": [
+        "RodA"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "rop-protein",
+    "label": {
+      "en": "Rop protein"
+    },
+    "description": {
+      "en": "Rop protein"
+    },
+    "aliases": {
+      "en": [
+        "Rop protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ruvabc",
+    "label": {
+      "en": "RuvABC"
+    },
+    "description": {
+      "en": "RuvABC"
+    },
+    "aliases": {
+      "en": [
+        "RuvABC"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "s100b",
+    "label": {
+      "en": "S100B"
+    },
+    "description": {
+      "en": "S100B"
+    },
+    "aliases": {
+      "en": [
+        "S100B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "saglin",
+    "label": {
+      "en": "Saglin"
+    },
+    "description": {
+      "en": "Saglin"
+    },
+    "aliases": {
+      "en": [
+        "Saglin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "saporin",
+    "label": {
+      "en": "Saporin"
+    },
+    "description": {
+      "en": "Saporin"
+    },
+    "aliases": {
+      "en": [
+        "Saporin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "scimp-protein",
+    "label": {
+      "en": "SCIMP protein"
+    },
+    "description": {
+      "en": "SCIMP protein"
+    },
+    "aliases": {
+      "en": [
+        "SCIMP protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "scytovirin",
+    "label": {
+      "en": "Scytovirin"
+    },
+    "description": {
+      "en": "Scytovirin"
+    },
+    "aliases": {
+      "en": [
+        "Scytovirin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "secretory-protein",
+    "label": {
+      "en": "Secretory protein"
+    },
+    "description": {
+      "en": "Secretory protein"
+    },
+    "aliases": {
+      "en": [
+        "Secretory protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sedlp",
+    "label": {
+      "en": "SEDLP"
+    },
+    "description": {
+      "en": "SEDLP"
+    },
+    "aliases": {
+      "en": [
+        "SEDLP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "semaphorin",
+    "label": {
+      "en": "Semaphorin"
+    },
+    "description": {
+      "en": "Semaphorin"
+    },
+    "aliases": {
+      "en": [
+        "Semaphorin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "semenogelin",
+    "label": {
+      "en": "Semenogelin"
+    },
+    "description": {
+      "en": "Semenogelin"
+    },
+    "aliases": {
+      "en": [
+        "Semenogelin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "septin",
+    "label": {
+      "en": "Septin"
+    },
+    "description": {
+      "en": "Septin"
+    },
+    "aliases": {
+      "en": [
+        "Septin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sericin",
+    "label": {
+      "en": "Sericin"
+    },
+    "description": {
+      "en": "Sericin"
+    },
+    "aliases": {
+      "en": [
+        "Sericin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "serum-total-protein",
+    "label": {
+      "en": "Serum total protein"
+    },
+    "description": {
+      "en": "Serum total protein"
+    },
+    "aliases": {
+      "en": [
+        "Serum total protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "shq1",
+    "label": {
+      "en": "Shq1"
+    },
+    "description": {
+      "en": "Shq1"
+    },
+    "aliases": {
+      "en": [
+        "Shq1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sic1",
+    "label": {
+      "en": "Sic1"
+    },
+    "description": {
+      "en": "Sic1"
+    },
+    "aliases": {
+      "en": [
+        "Sic1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "siderocalin",
+    "label": {
+      "en": "Siderocalin"
+    },
+    "description": {
+      "en": "Siderocalin"
+    },
+    "aliases": {
+      "en": [
+        "Siderocalin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "signal-transducing-adaptor-protein",
+    "label": {
+      "en": "Signal transducing adaptor protein"
+    },
+    "description": {
+      "en": "Signal transducing adaptor protein"
+    },
+    "aliases": {
+      "en": [
+        "Signal transducing adaptor protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "single-strand-dna-binding-protein",
+    "label": {
+      "en": "Single-strand DNA-binding protein"
+    },
+    "description": {
+      "en": "Single-strand DNA-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Single-strand DNA-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "single-stranded-binding-protein",
+    "label": {
+      "en": "Single-stranded binding protein"
+    },
+    "description": {
+      "en": "Single-stranded binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Single-stranded binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "siva",
+    "label": {
+      "en": "Siva"
+    },
+    "description": {
+      "en": "Siva"
+    },
+    "aliases": {
+      "en": [
+        "Siva"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "skp1",
+    "label": {
+      "en": "Skp1"
+    },
+    "description": {
+      "en": "Skp1"
+    },
+    "aliases": {
+      "en": [
+        "Skp1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "small-maf",
+    "label": {
+      "en": "Small Maf"
+    },
+    "description": {
+      "en": "Small Maf"
+    },
+    "aliases": {
+      "en": [
+        "Small Maf"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "smurfp",
+    "label": {
+      "en": "SmURFP"
+    },
+    "description": {
+      "en": "SmURFP"
+    },
+    "aliases": {
+      "en": [
+        "SmURFP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sned1",
+    "label": {
+      "en": "SNED1"
+    },
+    "description": {
+      "en": "SNED1"
+    },
+    "aliases": {
+      "en": [
+        "SNED1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "snf3",
+    "label": {
+      "en": "Snf3"
+    },
+    "description": {
+      "en": "Snf3"
+    },
+    "aliases": {
+      "en": [
+        "Snf3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "soluble-nsf-attachment-protein",
+    "label": {
+      "en": "Soluble NSF attachment protein"
+    },
+    "description": {
+      "en": "Soluble NSF attachment protein"
+    },
+    "aliases": {
+      "en": [
+        "Soluble NSF attachment protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sonic-hedgehog",
+    "label": {
+      "en": "Sonic hedgehog"
+    },
+    "description": {
+      "en": "Sonic hedgehog"
+    },
+    "aliases": {
+      "en": [
+        "Sonic hedgehog"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sorting-nexin",
+    "label": {
+      "en": "Sorting nexin"
+    },
+    "description": {
+      "en": "Sorting nexin"
+    },
+    "aliases": {
+      "en": [
+        "Sorting nexin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "soy-protein",
+    "label": {
+      "en": "Soy protein"
+    },
+    "description": {
+      "en": "Soy protein"
+    },
+    "aliases": {
+      "en": [
+        "Soy protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spg5b",
+    "label": {
+      "en": "SPG5B"
+    },
+    "description": {
+      "en": "SPG5B"
+    },
+    "aliases": {
+      "en": [
+        "SPG5B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spg9",
+    "label": {
+      "en": "SPG9"
+    },
+    "description": {
+      "en": "SPG9"
+    },
+    "aliases": {
+      "en": [
+        "SPG9"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spg14",
+    "label": {
+      "en": "SPG14"
+    },
+    "description": {
+      "en": "SPG14"
+    },
+    "aliases": {
+      "en": [
+        "SPG14"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spg23",
+    "label": {
+      "en": "SPG23"
+    },
+    "description": {
+      "en": "SPG23"
+    },
+    "aliases": {
+      "en": [
+        "SPG23"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spidroin",
+    "label": {
+      "en": "Spidroin"
+    },
+    "description": {
+      "en": "Spidroin"
+    },
+    "aliases": {
+      "en": [
+        "Spidroin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spink6",
+    "label": {
+      "en": "SPINK6"
+    },
+    "description": {
+      "en": "SPINK6"
+    },
+    "aliases": {
+      "en": [
+        "SPINK6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spo11",
+    "label": {
+      "en": "Spo11"
+    },
+    "description": {
+      "en": "Spo11"
+    },
+    "aliases": {
+      "en": [
+        "Spo11"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "spred1",
+    "label": {
+      "en": "SPRED1"
+    },
+    "description": {
+      "en": "SPRED1"
+    },
+    "aliases": {
+      "en": [
+        "SPRED1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sr-protein",
+    "label": {
+      "en": "SR protein"
+    },
+    "description": {
+      "en": "SR protein"
+    },
+    "aliases": {
+      "en": [
+        "SR protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stat1",
+    "label": {
+      "en": "STAT1"
+    },
+    "description": {
+      "en": "STAT1"
+    },
+    "aliases": {
+      "en": [
+        "STAT1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stat2",
+    "label": {
+      "en": "STAT2"
+    },
+    "description": {
+      "en": "STAT2"
+    },
+    "aliases": {
+      "en": [
+        "STAT2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stat3",
+    "label": {
+      "en": "STAT3"
+    },
+    "description": {
+      "en": "STAT3"
+    },
+    "aliases": {
+      "en": [
+        "STAT3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stat4",
+    "label": {
+      "en": "STAT4"
+    },
+    "description": {
+      "en": "STAT4"
+    },
+    "aliases": {
+      "en": [
+        "STAT4"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stat5",
+    "label": {
+      "en": "STAT5"
+    },
+    "description": {
+      "en": "STAT5"
+    },
+    "aliases": {
+      "en": [
+        "STAT5"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stat6",
+    "label": {
+      "en": "STAT6"
+    },
+    "description": {
+      "en": "STAT6"
+    },
+    "aliases": {
+      "en": [
+        "STAT6"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stathmin",
+    "label": {
+      "en": "Stathmin"
+    },
+    "description": {
+      "en": "Stathmin"
+    },
+    "aliases": {
+      "en": [
+        "Stathmin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "staufen",
+    "label": {
+      "en": "Staufen"
+    },
+    "description": {
+      "en": "Staufen"
+    },
+    "aliases": {
+      "en": [
+        "Staufen"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "stellacyanin",
+    "label": {
+      "en": "Stellacyanin"
+    },
+    "description": {
+      "en": "Stellacyanin"
+    },
+    "aliases": {
+      "en": [
+        "Stellacyanin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "streptavidin",
+    "label": {
+      "en": "Streptavidin"
+    },
+    "description": {
+      "en": "Streptavidin"
+    },
+    "aliases": {
+      "en": [
+        "Streptavidin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "substrate-adhesion-molecules",
+    "label": {
+      "en": "Substrate adhesion molecules"
+    },
+    "description": {
+      "en": "Substrate adhesion molecules"
+    },
+    "aliases": {
+      "en": [
+        "Substrate adhesion molecules"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sumo-enzymes",
+    "label": {
+      "en": "SUMO enzymes"
+    },
+    "description": {
+      "en": "SUMO enzymes"
+    },
+    "aliases": {
+      "en": [
+        "SUMO enzymes"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "sumo-protein",
+    "label": {
+      "en": "SUMO protein"
+    },
+    "description": {
+      "en": "SUMO protein"
+    },
+    "aliases": {
+      "en": [
+        "SUMO protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "t-cell-receptor-alpha-joining-56",
+    "label": {
+      "en": "T cell receptor alpha joining 56"
+    },
+    "description": {
+      "en": "T cell receptor alpha joining 56"
+    },
+    "aliases": {
+      "en": [
+        "T cell receptor alpha joining 56"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tafazzin",
+    "label": {
+      "en": "Tafazzin"
+    },
+    "description": {
+      "en": "Tafazzin"
+    },
+    "aliases": {
+      "en": [
+        "Tafazzin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tal-effector",
+    "label": {
+      "en": "TAL effector"
+    },
+    "description": {
+      "en": "TAL effector"
+    },
+    "aliases": {
+      "en": [
+        "TAL effector"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tale-likes",
+    "label": {
+      "en": "TALE-likes"
+    },
+    "description": {
+      "en": "TALE-likes"
+    },
+    "aliases": {
+      "en": [
+        "TALE-likes"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tanpaku",
+    "label": {
+      "en": "TANPAKU"
+    },
+    "description": {
+      "en": "TANPAKU"
+    },
+    "aliases": {
+      "en": [
+        "TANPAKU"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tata-binding-protein",
+    "label": {
+      "en": "TATA-binding protein"
+    },
+    "description": {
+      "en": "TATA-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "TATA-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tau-protein",
+    "label": {
+      "en": "Tau protein"
+    },
+    "description": {
+      "en": "Tau protein"
+    },
+    "aliases": {
+      "en": [
+        "Tau protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tax1",
+    "label": {
+      "en": "Tax1"
+    },
+    "description": {
+      "en": "Tax1"
+    },
+    "aliases": {
+      "en": [
+        "Tax1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tbr1",
+    "label": {
+      "en": "TBR1"
+    },
+    "description": {
+      "en": "TBR1"
+    },
+    "aliases": {
+      "en": [
+        "TBR1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "telomere-binding-protein",
+    "label": {
+      "en": "Telomere-binding protein"
+    },
+    "description": {
+      "en": "Telomere-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Telomere-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tensin",
+    "label": {
+      "en": "Tensin"
+    },
+    "description": {
+      "en": "Tensin"
+    },
+    "aliases": {
+      "en": [
+        "Tensin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tetrameric-protein",
+    "label": {
+      "en": "Tetrameric protein"
+    },
+    "description": {
+      "en": "Tetrameric protein"
+    },
+    "aliases": {
+      "en": [
+        "Tetrameric protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tgf-beta-1",
+    "label": {
+      "en": "TGF beta 1"
+    },
+    "description": {
+      "en": "TGF beta 1"
+    },
+    "aliases": {
+      "en": [
+        "TGF beta 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tgf-beta-2",
+    "label": {
+      "en": "TGF beta 2"
+    },
+    "description": {
+      "en": "TGF beta 2"
+    },
+    "aliases": {
+      "en": [
+        "TGF beta 2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "thymopoietin",
+    "label": {
+      "en": "Thymopoietin"
+    },
+    "description": {
+      "en": "Thymopoietin"
+    },
+    "aliases": {
+      "en": [
+        "Thymopoietin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tie1",
+    "label": {
+      "en": "TIE1"
+    },
+    "description": {
+      "en": "TIE1"
+    },
+    "aliases": {
+      "en": [
+        "TIE1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tmem110",
+    "label": {
+      "en": "Tmem110"
+    },
+    "description": {
+      "en": "Tmem110"
+    },
+    "aliases": {
+      "en": [
+        "Tmem110"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tmem151b",
+    "label": {
+      "en": "TMEM151B"
+    },
+    "description": {
+      "en": "TMEM151B"
+    },
+    "aliases": {
+      "en": [
+        "TMEM151B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tmem229b",
+    "label": {
+      "en": "TMEM229B"
+    },
+    "description": {
+      "en": "TMEM229B"
+    },
+    "aliases": {
+      "en": [
+        "TMEM229B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tmem261",
+    "label": {
+      "en": "Tmem261"
+    },
+    "description": {
+      "en": "Tmem261"
+    },
+    "aliases": {
+      "en": [
+        "Tmem261"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tnf-receptor-associated-factor",
+    "label": {
+      "en": "TNF receptor associated factor"
+    },
+    "description": {
+      "en": "TNF receptor associated factor"
+    },
+    "aliases": {
+      "en": [
+        "TNF receptor associated factor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tomosyn",
+    "label": {
+      "en": "Tomosyn"
+    },
+    "description": {
+      "en": "Tomosyn"
+    },
+    "aliases": {
+      "en": [
+        "Tomosyn"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tpm21",
+    "label": {
+      "en": "TPM21"
+    },
+    "description": {
+      "en": "TPM21"
+    },
+    "aliases": {
+      "en": [
+        "TPM21"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tra@",
+    "label": {
+      "en": "TRA@"
+    },
+    "description": {
+      "en": "TRA@"
+    },
+    "aliases": {
+      "en": [
+        "TRA@"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "female-specific-protein-transformer",
+    "label": {
+      "en": "Female-specific protein transformer"
+    },
+    "description": {
+      "en": "Female-specific protein transformer"
+    },
+    "aliases": {
+      "en": [
+        "Female-specific protein transformer"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transcription-factor-ii-b",
+    "label": {
+      "en": "Transcription factor II B"
+    },
+    "description": {
+      "en": "Transcription factor II B"
+    },
+    "aliases": {
+      "en": [
+        "Transcription factor II B"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transcription-factor-ii-d",
+    "label": {
+      "en": "Transcription factor II D"
+    },
+    "description": {
+      "en": "Transcription factor II D"
+    },
+    "aliases": {
+      "en": [
+        "Transcription factor II D"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transcription-factor-ii-e",
+    "label": {
+      "en": "Transcription factor II E"
+    },
+    "description": {
+      "en": "Transcription factor II E"
+    },
+    "aliases": {
+      "en": [
+        "Transcription factor II E"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transcription-factor-ii-f",
+    "label": {
+      "en": "Transcription factor II F"
+    },
+    "description": {
+      "en": "Transcription factor II F"
+    },
+    "aliases": {
+      "en": [
+        "Transcription factor II F"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transforming-growth-factor,-beta-3",
+    "label": {
+      "en": "Transforming growth factor, beta 3"
+    },
+    "description": {
+      "en": "Transforming growth factor, beta 3"
+    },
+    "aliases": {
+      "en": [
+        "transforming growth factor, beta 3",
+        "transforming growth factor beta 3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transition-nuclear-protein",
+    "label": {
+      "en": "Transition nuclear protein"
+    },
+    "description": {
+      "en": "Transition nuclear protein"
+    },
+    "aliases": {
+      "en": [
+        "Transition nuclear protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "translocon",
+    "label": {
+      "en": "Translocon"
+    },
+    "description": {
+      "en": "Translocon"
+    },
+    "aliases": {
+      "en": [
+        "Translocon"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "transmembrane-protein-251",
+    "label": {
+      "en": "Transmembrane protein 251"
+    },
+    "description": {
+      "en": "Transmembrane protein 251"
+    },
+    "aliases": {
+      "en": [
+        "Transmembrane protein 251"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "trapp-complex",
+    "label": {
+      "en": "TRAPP complex"
+    },
+    "description": {
+      "en": "TRAPP complex"
+    },
+    "aliases": {
+      "en": [
+        "TRAPP complex"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "trg@",
+    "label": {
+      "en": "TRG@"
+    },
+    "description": {
+      "en": "TRG@"
+    },
+    "aliases": {
+      "en": [
+        "TRG@"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "trichosanthin",
+    "label": {
+      "en": "Trichosanthin"
+    },
+    "description": {
+      "en": "Trichosanthin"
+    },
+    "aliases": {
+      "en": [
+        "Trichosanthin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "trim5alpha",
+    "label": {
+      "en": "TRIM5alpha"
+    },
+    "description": {
+      "en": "TRIM5alpha"
+    },
+    "aliases": {
+      "en": [
+        "TRIM5alpha"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "trim52",
+    "label": {
+      "en": "TRIM52"
+    },
+    "description": {
+      "en": "TRIM52"
+    },
+    "aliases": {
+      "en": [
+        "TRIM52"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tropoelastin",
+    "label": {
+      "en": "Tropoelastin"
+    },
+    "description": {
+      "en": "Tropoelastin"
+    },
+    "aliases": {
+      "en": [
+        "Tropoelastin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tropomodulin",
+    "label": {
+      "en": "Tropomodulin"
+    },
+    "description": {
+      "en": "Tropomodulin"
+    },
+    "aliases": {
+      "en": [
+        "Tropomodulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "troponin",
+    "label": {
+      "en": "Troponin"
+    },
+    "description": {
+      "en": "Troponin"
+    },
+    "aliases": {
+      "en": [
+        "Troponin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "troponin-complex",
+    "label": {
+      "en": "Troponin complex"
+    },
+    "description": {
+      "en": "Troponin complex"
+    },
+    "aliases": {
+      "en": [
+        "Troponin complex"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "troponin-i",
+    "label": {
+      "en": "Troponin I"
+    },
+    "description": {
+      "en": "Troponin I"
+    },
+    "aliases": {
+      "en": [
+        "Troponin I"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "troponin-t",
+    "label": {
+      "en": "Troponin T"
+    },
+    "description": {
+      "en": "Troponin T"
+    },
+    "aliases": {
+      "en": [
+        "Troponin T"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tryptophan-repressor",
+    "label": {
+      "en": "Tryptophan repressor"
+    },
+    "description": {
+      "en": "Tryptophan repressor"
+    },
+    "aliases": {
+      "en": [
+        "Tryptophan repressor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "tubulin",
+    "label": {
+      "en": "Tubulin"
+    },
+    "description": {
+      "en": "Tubulin"
+    },
+    "aliases": {
+      "en": [
+        "Tubulin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "txn2",
+    "label": {
+      "en": "TXN2"
+    },
+    "description": {
+      "en": "TXN2"
+    },
+    "aliases": {
+      "en": [
+        "TXN2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "type-xxvii-collagen",
+    "label": {
+      "en": "Type XXVII collagen"
+    },
+    "description": {
+      "en": "Type XXVII collagen"
+    },
+    "aliases": {
+      "en": [
+        "Type XXVII collagen"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ubiquitin",
+    "label": {
+      "en": "Ubiquitin"
+    },
+    "description": {
+      "en": "Ubiquitin"
+    },
+    "aliases": {
+      "en": [
+        "Ubiquitin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "ubiquitin-conjugating-enzyme",
+    "label": {
+      "en": "Ubiquitin-conjugating enzyme"
+    },
+    "description": {
+      "en": "Ubiquitin-conjugating enzyme"
+    },
+    "aliases": {
+      "en": [
+        "Ubiquitin-conjugating enzyme"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "uniprobe",
+    "label": {
+      "en": "UniPROBE"
+    },
+    "description": {
+      "en": "UniPROBE"
+    },
+    "aliases": {
+      "en": [
+        "UniPROBE"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "uparap",
+    "label": {
+      "en": "UPARAP"
+    },
+    "description": {
+      "en": "UPARAP"
+    },
+    "aliases": {
+      "en": [
+        "UPARAP"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "urm1",
+    "label": {
+      "en": "URM1"
+    },
+    "description": {
+      "en": "URM1"
+    },
+    "aliases": {
+      "en": [
+        "URM1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "vegf-receptor",
+    "label": {
+      "en": "VEGF receptor"
+    },
+    "description": {
+      "en": "VEGF receptor"
+    },
+    "aliases": {
+      "en": [
+        "VEGF receptor"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "vgf",
+    "label": {
+      "en": "VGF"
+    },
+    "description": {
+      "en": "VGF"
+    },
+    "aliases": {
+      "en": [
+        "VGF"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "vibrational-circular-dichroism",
+    "label": {
+      "en": "Vibrational circular dichroism"
+    },
+    "description": {
+      "en": "Vibrational circular dichroism"
+    },
+    "aliases": {
+      "en": [
+        "Vibrational circular dichroism"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "villin",
+    "label": {
+      "en": "Villin"
+    },
+    "description": {
+      "en": "Villin"
+    },
+    "aliases": {
+      "en": [
+        "Villin"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "vitamin-d-dependent-calcium-binding-protein",
+    "label": {
+      "en": "Vitamin D-dependent calcium-binding protein"
+    },
+    "description": {
+      "en": "Vitamin D-dependent calcium-binding protein"
+    },
+    "aliases": {
+      "en": [
+        "Vitamin D-dependent calcium-binding protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "vitamin-k-dependent-protein",
+    "label": {
+      "en": "Vitamin K-dependent protein"
+    },
+    "description": {
+      "en": "Vitamin K-dependent protein"
+    },
+    "aliases": {
+      "en": [
+        "Vitamin K-dependent protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "von-hippel–lindau-binding-protein-1",
+    "label": {
+      "en": "Von Hippel–Lindau binding protein 1"
+    },
+    "description": {
+      "en": "Von Hippel–Lindau binding protein 1"
+    },
+    "aliases": {
+      "en": [
+        "Von Hippel–Lindau binding protein 1",
+        "Von Hippel Lindau binding protein 1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "vpx",
+    "label": {
+      "en": "Vpx"
+    },
+    "description": {
+      "en": "Vpx"
+    },
+    "aliases": {
+      "en": [
+        "Vpx"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "wall-associated-kinase",
+    "label": {
+      "en": "Wall-Associated Kinase"
+    },
+    "description": {
+      "en": "Wall-Associated Kinase"
+    },
+    "aliases": {
+      "en": [
+        "Wall-Associated Kinase"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "whey-protein",
+    "label": {
+      "en": "Whey protein"
+    },
+    "description": {
+      "en": "Whey protein"
+    },
+    "aliases": {
+      "en": [
+        "Whey protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "whey-protein-isolate",
+    "label": {
+      "en": "Whey protein isolate"
+    },
+    "description": {
+      "en": "Whey protein isolate"
+    },
+    "aliases": {
+      "en": [
+        "Whey protein isolate"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "whi2",
+    "label": {
+      "en": "Whi2"
+    },
+    "description": {
+      "en": "Whi2"
+    },
+    "aliases": {
+      "en": [
+        "Whi2"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "whi3",
+    "label": {
+      "en": "WHI3"
+    },
+    "description": {
+      "en": "WHI3"
+    },
+    "aliases": {
+      "en": [
+        "WHI3"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zfp82-zinc-finger-protein",
+    "label": {
+      "en": "Zfp82 zinc finger protein"
+    },
+    "description": {
+      "en": "Zfp82 zinc finger protein"
+    },
+    "aliases": {
+      "en": [
+        "Zfp82 zinc finger protein"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-112",
+    "label": {
+      "en": "Zinc finger protein 112"
+    },
+    "description": {
+      "en": "Zinc finger protein 112"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 112"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-180",
+    "label": {
+      "en": "Zinc finger protein 180"
+    },
+    "description": {
+      "en": "Zinc finger protein 180"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 180"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-208",
+    "label": {
+      "en": "Zinc finger protein 208"
+    },
+    "description": {
+      "en": "Zinc finger protein 208"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 208"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-226",
+    "label": {
+      "en": "Zinc finger protein 226"
+    },
+    "description": {
+      "en": "Zinc finger protein 226"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 226"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-395",
+    "label": {
+      "en": "Zinc finger protein 395"
+    },
+    "description": {
+      "en": "Zinc finger protein 395"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 395"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-426",
+    "label": {
+      "en": "Zinc finger protein 426"
+    },
+    "description": {
+      "en": "Zinc finger protein 426"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 426"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-557",
+    "label": {
+      "en": "Zinc finger protein 557"
+    },
+    "description": {
+      "en": "Zinc finger protein 557"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 557"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-576",
+    "label": {
+      "en": "Zinc finger protein 576"
+    },
+    "description": {
+      "en": "Zinc finger protein 576"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 576"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-613",
+    "label": {
+      "en": "Zinc finger protein 613"
+    },
+    "description": {
+      "en": "Zinc finger protein 613"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 613"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-804a",
+    "label": {
+      "en": "Zinc finger protein 804A"
+    },
+    "description": {
+      "en": "Zinc finger protein 804A"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 804A"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zinc-finger-protein-839",
+    "label": {
+      "en": "Zinc finger protein 839"
+    },
+    "description": {
+      "en": "Zinc finger protein 839"
+    },
+    "aliases": {
+      "en": [
+        "Zinc finger protein 839"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "znf202",
+    "label": {
+      "en": "ZNF202"
+    },
+    "description": {
+      "en": "ZNF202"
+    },
+    "aliases": {
+      "en": [
+        "ZNF202"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "znf408",
+    "label": {
+      "en": "ZNF408"
+    },
+    "description": {
+      "en": "ZNF408"
+    },
+    "aliases": {
+      "en": [
+        "ZNF408"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  },
+  {
+    "id": "zrsr1",
+    "label": {
+      "en": "ZRSR1"
+    },
+    "description": {
+      "en": "ZRSR1"
+    },
+    "aliases": {
+      "en": [
+        "ZRSR1"
+      ]
+    },
+    "keywords": [],
+    "category": "protein"
+  }
+]
